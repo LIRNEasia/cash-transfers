@@ -1,0 +1,3584 @@
+[
+ {
+   "Type": "ATM",
+   "District": "Ampara",
+   "NameoftheBranchATMIdName": "Sammanthurai",
+   "Address": "Hussain Building,Police Road,Sammanthurai",
+   "lat": 7.3622637,
+   "lng": 81.804729,
+   "NameoftheBranchATMATMCode": "Sammanthurai  Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ampara",
+   "NameoftheBranchATMIdName": "Karaitevu",
+   "Address": "Akkaraipattu Road, Karaitivu",
+   "lat": 7.380491,
+   "lng": 81.8381674,
+   "NameoftheBranchATMATMCode": "Karaitevu Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ampara",
+   "NameoftheBranchATMIdName": "Kalmunai",
+   "Address": "Main Street Kalmunai",
+   "lat": 7.413058,
+   "lng": 81.826992,
+   "NameoftheBranchATMATMCode": "Kalmunai Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ampara",
+   "NameoftheBranchATMIdName": "Maruthamunai",
+   "Address": "Main Street, Periyaneelavanai-01",
+   "lat": 7.440421,
+   "lng": 81.813139,
+   "NameoftheBranchATMATMCode": "Maruthamunai Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ampara",
+   "NameoftheBranchATMIdName": "Sainthamaruthu",
+   "Address": "Main Street, Sainthamaruthu",
+   "lat": 7.39084,
+   "lng": 81.835014,
+   "NameoftheBranchATMATMCode": "Sainthamaruthu Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ampara",
+   "NameoftheBranchATMIdName": "Nintavur",
+   "Address": "Aboosaly Building,   Main Street, Nintavur-24",
+   "lat": 7.353925,
+   "lng": 81.846142,
+   "NameoftheBranchATMATMCode": "Nintavur Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ampara",
+   "NameoftheBranchATMIdName": "Addalaichenai",
+   "Address": "Main Street, Addalaichenai",
+   "lat": 7.231664,
+   "lng": 81.847507,
+   "NameoftheBranchATMATMCode": "Addalaichenai Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ampara",
+   "NameoftheBranchATMIdName": "Akkaraipattu",
+   "Address": "Lhei City, Main Street, Akkaraipattu",
+   "lat": 7.219752,
+   "lng": 81.849947,
+   "NameoftheBranchATMATMCode": "Akkaraipattu Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ampara",
+   "NameoftheBranchATMIdName": "Thirukkovil",
+   "Address": "Murali Building,Main Street ,Thirukkovil",
+   "lat": 7.119141,
+   "lng": 81.852344,
+   "NameoftheBranchATMATMCode": "Thirukkovil Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ampara",
+   "NameoftheBranchATMIdName": "Pottuvil",
+   "Address": "Main Street, Pottuvil",
+   "lat": 6.8746694,
+   "lng": 81.8295957,
+   "NameoftheBranchATMATMCode": "Pottuvil Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ampara",
+   "NameoftheBranchATMIdName": "Uhana",
+   "Address": "Main street,Central Camp",
+   "lat": 7.416494,
+   "lng": 81.732751,
+   "NameoftheBranchATMATMCode": "Central Camp SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ampara",
+   "NameoftheBranchATMIdName": "Uhana",
+   "Address": "Liyanwala Building,Gonagolla Junction,Gonagolla.",
+   "lat": 7.43428,
+   "lng": 81.628467,
+   "NameoftheBranchATMATMCode": "Gonagolla SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ampara",
+   "NameoftheBranchATMIdName": "Ampara",
+   "Address": "Near The Divisional Secretariat Office,Irakkamam",
+   "lat": 7.248174,
+   "lng": 81.718201,
+   "NameoftheBranchATMATMCode": "Eragama SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ampara",
+   "NameoftheBranchATMIdName": "Ampara",
+   "Address": "Base Hospital Ampara",
+   "lat": 7.299227,
+   "lng": 81.688567,
+   "NameoftheBranchATMATMCode": "Ampara Hospital Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ampara",
+   "NameoftheBranchATMIdName": "Addalaichenai",
+   "Address": "University Park, Oluvil",
+   "lat": 7.297098,
+   "lng": 81.850017,
+   "NameoftheBranchATMATMCode": "Oluvil University Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ampara",
+   "NameoftheBranchATMIdName": "Kalmunai",
+   "Address": "Ashraff Memorial Base Hospital, A4, A4 A4, Kalmunai",
+   "lat": 7.4031776,
+   "lng": 81.828957,
+   "NameoftheBranchATMATMCode": "Ashroff Memorial Hospital"
+ },
+ {
+   "Type": "ATM",
+   "District": "Anuradhapura",
+   "NameoftheBranchATMIdName": "Padaviya",
+   "Address": "Bank Side, Padaviya",
+   "lat": 8.8343813,
+   "lng": 80.7596433,
+   "NameoftheBranchATMATMCode": "Padaviya Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Anuradhapura",
+   "NameoftheBranchATMIdName": "Kebithigollawa",
+   "Address": "Maithreepala Senanayake Mawatha, Kebitigollewa",
+   "lat": 8.6417635,
+   "lng": 80.6700896,
+   "NameoftheBranchATMATMCode": "Kebithigollawa Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Anuradhapura",
+   "NameoftheBranchATMIdName": "Galenbidunuwewa",
+   "Address": "People's Bank, Galenbindunuwewa",
+   "lat": 8.2904088,
+   "lng": 80.7158287,
+   "NameoftheBranchATMATMCode": "Galenbidunuwewa Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Anuradhapura",
+   "NameoftheBranchATMIdName": "Galnewa",
+   "Address": "New Town, Galnewa",
+   "lat": 8.035068,
+   "lng": 80.4783673,
+   "NameoftheBranchATMATMCode": "Galnewa Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Anuradhapura",
+   "NameoftheBranchATMIdName": "Nuwarawewa",
+   "Address": "Samupakara Mandiraya, Old Bustand, Anuradhapura",
+   "lat": 8.3399835,
+   "lng": 80.4148666,
+   "NameoftheBranchATMATMCode": "Nuwarawewa Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Anuradhapura",
+   "NameoftheBranchATMIdName": "Meegalawa",
+   "Address": "New Town, Meegalewa",
+   "lat": 8.055647,
+   "lng": 80.353737,
+   "NameoftheBranchATMATMCode": "Meegalawa Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Anuradhapura",
+   "NameoftheBranchATMIdName": "Galkiriyagama",
+   "Address": "People's Bank, Galkiriyagama",
+   "lat": 7.9312576,
+   "lng": 80.5615844,
+   "NameoftheBranchATMATMCode": "Galkiriyagama Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Anuradhapura",
+   "NameoftheBranchATMIdName": "Talawa",
+   "Address": "Andarawewa Rd, Talawa",
+   "lat": 8.2369854,
+   "lng": 80.3495769,
+   "NameoftheBranchATMATMCode": "Talawa Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Anuradhapura",
+   "NameoftheBranchATMIdName": "Anuradhapura SC",
+   "Address": "New Town, Anuradhapura",
+   "lat": 8.3220924,
+   "lng": 80.4022114,
+   "NameoftheBranchATMATMCode": "Anuradhapura SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Anuradhapura",
+   "NameoftheBranchATMIdName": "Mihinthale SC",
+   "Address": "Vauniya Rd, Mihinthalaya",
+   "lat": 8.3592105,
+   "lng": 80.5114745,
+   "NameoftheBranchATMATMCode": "Mihinthale SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Anuradhapura",
+   "NameoftheBranchATMIdName": "Parakramapura SC",
+   "Address": "In front of the School , Padavi Parakramapura",
+   "lat": 8.9052522,
+   "lng": 80.7755435,
+   "NameoftheBranchATMATMCode": "Parakramapura SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Anuradhapura",
+   "NameoftheBranchATMIdName": "A'pura Nuwarawewa",
+   "Address": "Nursing Training School Anuradhapura",
+   "lat": 8.3259044,
+   "lng": 80.4084189,
+   "NameoftheBranchATMATMCode": "NTS Anuradhapura"
+ },
+ {
+   "Type": "ATM",
+   "District": "Anuradhapura",
+   "NameoftheBranchATMIdName": "Anuradhapura",
+   "Address": "Bazzar Street, Rambewa",
+   "lat": 8.3592232,
+   "lng": 80.493861,
+   "NameoftheBranchATMATMCode": "Rambewa SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Anuradhapura",
+   "NameoftheBranchATMIdName": "Anuradhapura",
+   "Address": "Anuradhapura Municipal Council Maithreepala Senanayake Mawatha, Anuradhapura",
+   "lat": 8.3274289,
+   "lng": 80.4049462,
+   "NameoftheBranchATMATMCode": "Municipal Council Anuradhapura"
+ },
+ {
+   "Type": "ATM",
+   "District": "Anuradhapura",
+   "NameoftheBranchATMIdName": "Anuradhapura",
+   "Address": "People's Bank Nachchaduwa",
+   "lat": 8.2466911,
+   "lng": 80.4582919,
+   "NameoftheBranchATMATMCode": "Nachchaduwa SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Badulla",
+   "NameoftheBranchATMIdName": "Keppetipola",
+   "Address": "Nuwara Elliya road, Keppetipola",
+   "lat": 6.8946612,
+   "lng": 80.8707469,
+   "NameoftheBranchATMATMCode": "Keppetipola Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Badulla",
+   "NameoftheBranchATMIdName": "Koslanda",
+   "Address": "No: 35/1, Main street, Koslanda",
+   "lat": 6.744031,
+   "lng": 81.018038,
+   "NameoftheBranchATMATMCode": "Koslanda Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Badulla",
+   "NameoftheBranchATMIdName": "Haldummulla",
+   "Address": "Colombr road Haldummulla",
+   "lat": 6.760363,
+   "lng": 80.8806,
+   "NameoftheBranchATMATMCode": "Haldummulla Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Badulla",
+   "NameoftheBranchATMIdName": "Halliela",
+   "Address": "Badulla road Hali - Ela",
+   "lat": 6.955437,
+   "lng": 81.032052,
+   "NameoftheBranchATMATMCode": "Halliela Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Badulla",
+   "NameoftheBranchATMIdName": "Branch",
+   "Address": "Dharmadutha road, Badulla",
+   "lat": 6.9276,
+   "lng": 80.8972,
+   "NameoftheBranchATMATMCode": "Badulla Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Badulla",
+   "NameoftheBranchATMIdName": "Bandarawela",
+   "Address": "Railway Station Ella",
+   "lat": 6.875777,
+   "lng": 81.047081,
+   "NameoftheBranchATMATMCode": "Ella Railway Staition"
+ },
+ {
+   "Type": "ATM",
+   "District": "Badulla",
+   "NameoftheBranchATMIdName": "Uva Paranagama",
+   "Address": "Uvaparanagama, Ambagasdowa",
+   "lat": 6.9276,
+   "lng": 80.8971,
+   "NameoftheBranchATMATMCode": "Uva Paranagama Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Badulla",
+   "NameoftheBranchATMIdName": "Bandarawela",
+   "Address": "Park Road, Bandarawela",
+   "lat": 6.833104,
+   "lng": 80.986743,
+   "NameoftheBranchATMATMCode": "Bandarawela"
+ },
+ {
+   "Type": "ATM",
+   "District": "Badulla",
+   "NameoftheBranchATMIdName": "Muthiyangana",
+   "Address": "No: 01 B, Bazar street, Badulla",
+   "lat": 6.988829,
+   "lng": 81.057691,
+   "NameoftheBranchATMATMCode": "Muthiyangana Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Badulla",
+   "NameoftheBranchATMIdName": "Muthiyangana",
+   "Address": "Badull Distict Sectretariate Office, Badulla",
+   "lat": 6.990487,
+   "lng": 81.055457,
+   "NameoftheBranchATMATMCode": "D.S.Office SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Badulla",
+   "NameoftheBranchATMIdName": "Welimada",
+   "Address": "Boralanda road, Welimada",
+   "lat": 6.903472,
+   "lng": 80.912212,
+   "NameoftheBranchATMATMCode": "Welimada Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Badulla",
+   "NameoftheBranchATMIdName": "Passara",
+   "Address": "No: 390, Main street, Passara",
+   "lat": 6.935558,
+   "lng": 81.157618,
+   "NameoftheBranchATMATMCode": "Passara Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Badulla",
+   "NameoftheBranchATMIdName": "Kandaketiya",
+   "Address": "Meegahakiula Town, Meegahakiula",
+   "lat": 7.137629,
+   "lng": 81.049285,
+   "NameoftheBranchATMATMCode": "Meegahakiula SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Badulla",
+   "NameoftheBranchATMIdName": "Mahiyanganaya",
+   "Address": "MAS Active Shadeline, Uvagemunupura, Mapakadawewa, Mahiyanganaya",
+   "lat": 7.316552,
+   "lng": 81.053104,
+   "NameoftheBranchATMATMCode": "Shadeline  Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Badulla",
+   "NameoftheBranchATMIdName": "Welimada",
+   "Address": "Hemapala Munidasa Mawatha, Welimada",
+   "lat": 6.905174,
+   "lng": 80.908779,
+   "NameoftheBranchATMATMCode": "Welimada SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Badulla",
+   "NameoftheBranchATMIdName": "Kandaketiya",
+   "Address": "Galauda road, kandaketiya",
+   "lat": 7.152016,
+   "lng": 80.99839,
+   "NameoftheBranchATMATMCode": "Kandaketiya"
+ },
+ {
+   "Type": "ATM",
+   "District": "Badulla",
+   "NameoftheBranchATMIdName": "Lunugala",
+   "Address": "282/A, Batticaloa road, Lunugala",
+   "lat": 7.042,
+   "lng": 81.203,
+   "NameoftheBranchATMATMCode": "Lunugala"
+ },
+ {
+   "Type": "ATM",
+   "District": "Badulla",
+   "NameoftheBranchATMIdName": "Badulla",
+   "Address": "Bazaar Street, Badulla",
+   "lat": 6.9888322,
+   "lng": 81.055722,
+   "NameoftheBranchATMATMCode": "Badulla Bazaar"
+ },
+ {
+   "Type": "ATM",
+   "District": "Badulla",
+   "NameoftheBranchATMIdName": "Diyathalawa",
+   "Address": "Army Volunteer Training Drill Ground, B396, Diyatalawa",
+   "lat": 6.8120173,
+   "lng": 80.9545445,
+   "NameoftheBranchATMATMCode": "Diyathalawa Army Camp"
+ },
+ {
+   "Type": "ATM",
+   "District": "Badulla",
+   "NameoftheBranchATMIdName": "Uva Paranagama",
+   "Address": "41/B, Lunuwatta ",
+   "lat": 6.9554,
+   "lng": 80.9253,
+   "NameoftheBranchATMATMCode": "Lunuwatta SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Badulla",
+   "NameoftheBranchATMIdName": "Hali Ella",
+   "Address": "Nuwara Eliya road, Attampitiya",
+   "lat": 6.936822,
+   "lng": 80.989809,
+   "NameoftheBranchATMATMCode": "Attampitiya SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Badulla",
+   "NameoftheBranchATMIdName": "Girandurukotte",
+   "Address": "New Town,Nawa Medagama",
+   "lat": 7.568637,
+   "lng": 81.042413,
+   "NameoftheBranchATMATMCode": "Nawa Medagama SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Batticaloa",
+   "NameoftheBranchATMIdName": "Kattankudy",
+   "Address": "Peoples Bank,Kattankudy",
+   "lat": 7.6756939,
+   "lng": 81.7322771,
+   "NameoftheBranchATMATMCode": "Kattankudy Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Batticaloa",
+   "NameoftheBranchATMIdName": "Batticaloa",
+   "Address": "Peoples Bank, Arasady,Batticaloa",
+   "lat": 7.719677,
+   "lng": 81.701158,
+   "NameoftheBranchATMATMCode": "Batticaloa"
+ },
+ {
+   "Type": "ATM",
+   "District": "Batticaloa",
+   "NameoftheBranchATMIdName": "Batticaloa town",
+   "Address": "Peoples Bank,Kovington Road,Batticaloa",
+   "lat": 7.712537,
+   "lng": 81.693943,
+   "NameoftheBranchATMATMCode": "Batticaloa town Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Batticaloa",
+   "NameoftheBranchATMIdName": "Eravur",
+   "Address": "Peoples Bank,Eravur",
+   "lat": 7.775887,
+   "lng": 81.604167,
+   "NameoftheBranchATMATMCode": "Eravur Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Batticaloa",
+   "NameoftheBranchATMIdName": "Chenkalady",
+   "Address": "Peoples Bank,Chenkalady",
+   "lat": 7.784271,
+   "lng": 81.592199,
+   "NameoftheBranchATMATMCode": "Chenkalady Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Batticaloa",
+   "NameoftheBranchATMIdName": "Kallar",
+   "Address": "Peoples Bank,Kallar",
+   "lat": 7.471375,
+   "lng": 81.80799,
+   "NameoftheBranchATMATMCode": "Kallar Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Batticaloa",
+   "NameoftheBranchATMIdName": "Oddamavadi",
+   "Address": "Peoples Bank,Oddamavady",
+   "lat": 7.912754,
+   "lng": 81.525762,
+   "NameoftheBranchATMATMCode": "Oddamavadi Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Batticaloa",
+   "NameoftheBranchATMIdName": "Kokkadicholai",
+   "Address": "Peoples Bank,Kokkatticholai.",
+   "lat": 7.609166,
+   "lng": 81.712103,
+   "NameoftheBranchATMATMCode": "Kokkadicholai Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Batticaloa",
+   "NameoftheBranchATMIdName": "Kattankudy",
+   "Address": "Swami Vipulananda Institute of Aesthetic Studies, Batticaloa",
+   "lat": 7.7001451,
+   "lng": 81.715909,
+   "NameoftheBranchATMATMCode": "Swami Vipulananda Music College"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo North",
+   "NameoftheBranchATMIdName": "Duke Steet Branch",
+   "Address": "No.11, Duke Street, Col.01.",
+   "lat": 6.935879,
+   "lng": 79.846217,
+   "NameoftheBranchATMATMCode": "Duke Street Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo North",
+   "NameoftheBranchATMIdName": "Dam Street",
+   "Address": "No. 323, Dam St., Colombo 12.",
+   "lat": 6.937342,
+   "lng": 79.85948,
+   "NameoftheBranchATMATMCode": "Dam Street"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo North",
+   "NameoftheBranchATMIdName": "Customs Service Center Atm",
+   "Address": "Sri Lanka Customs  H/O, No 40, Main St.,Col.11.",
+   "lat": 6.934792,
+   "lng": 79.845886,
+   "NameoftheBranchATMATMCode": "Customs Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo North",
+   "NameoftheBranchATMIdName": "Midcity",
+   "Address": "Hultsdorp Court Premises, Col.12.",
+   "lat": 6.936482,
+   "lng": 79.860886,
+   "NameoftheBranchATMATMCode": "Hulftsdorp premises -Petah"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo North",
+   "NameoftheBranchATMIdName": "First City Branch            ",
+   "Address": "No.28/1/1, Mudalige  Mw., Col. 01",
+   "lat": 6.935062,
+   "lng": 79.843831,
+   "NameoftheBranchATMATMCode": "First City Branch  Branch Premises         "
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo North",
+   "NameoftheBranchATMIdName": "Sangaraja Mw",
+   "Address": "No.441, Sri Sangaraja Mw.,  Col.12.",
+   "lat": 6.938155,
+   "lng": 79.866123,
+   "NameoftheBranchATMATMCode": "Sangaraja Mw  Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo North",
+   "NameoftheBranchATMIdName": "First City",
+   "Address": "Sri Lanka Ports Authority, Col.01",
+   "lat": 6.938612,
+   "lng": 79.845236,
+   "NameoftheBranchATMATMCode": "Harbour  Center  Premises     "
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo North",
+   "NameoftheBranchATMIdName": "Pettah",
+   "Address": "People's Leasing Building Pettah",
+   "lat": 6.938792,
+   "lng": 79.853366,
+   "NameoftheBranchATMATMCode": "People's Leasing Building"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo North",
+   "NameoftheBranchATMIdName": "Mutwal",
+   "Address": "No.32, Malwatta Raod, Col.11.",
+   "lat": 6.967669,
+   "lng": 79.872458,
+   "NameoftheBranchATMATMCode": "Mutwal  Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo North",
+   "NameoftheBranchATMIdName": "Sangaraja Mw",
+   "Address": "No.60, Maligawaatta, Col.10.",
+   "lat": 6.935153,
+   "lng": 79.870893,
+   "NameoftheBranchATMATMCode": "Maligawatte SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo North",
+   "NameoftheBranchATMIdName": "Dematagoda",
+   "Address": "No.716/14, Bese line Rd, Demeatagoda.",
+   "lat": 6.938469,
+   "lng": 79.878055,
+   "NameoftheBranchATMATMCode": "Dematagoda Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo North",
+   "NameoftheBranchATMIdName": "Dematagoda",
+   "Address": "No.348/5, Base Line Rd, Dematagoda.",
+   "lat": 6.930708,
+   "lng": 79.8782,
+   "NameoftheBranchATMATMCode": "Dematagoda SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo North",
+   "NameoftheBranchATMIdName": "Malwatta Road ",
+   "Address": "Railway Station Colombo Fort.",
+   "lat": 6.933,
+   "lng": 79.849,
+   "NameoftheBranchATMATMCode": "Fort Railway Station"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo North",
+   "NameoftheBranchATMIdName": "Keselwatta",
+   "Address": "Department of Pension Colombo 10",
+   "lat": 6.9316635,
+   "lng": 79.8649534,
+   "NameoftheBranchATMATMCode": "Pensions Department"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo North",
+   "NameoftheBranchATMIdName": "Malwatta Road",
+   "Address": "No.32, Malwatta Raod, Col.11",
+   "lat": 6.935,
+   "lng": 79.849,
+   "NameoftheBranchATMATMCode": "Malwatta Road Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo Outer",
+   "NameoftheBranchATMIdName": "Dehiwela",
+   "Address": "Major L.V Gunarathna Mawatha Dehiwala",
+   "lat": 6.850898,
+   "lng": 79.864271,
+   "NameoftheBranchATMATMCode": "Dehiwela"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo Outer",
+   "NameoftheBranchATMIdName": "Nawala",
+   "Address": "Open University of Sri Lanka Nawala",
+   "lat": 6.88296,
+   "lng": 79.8860815,
+   "NameoftheBranchATMATMCode": "Open University"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo Outer",
+   "NameoftheBranchATMIdName": "Kosgama",
+   "Address": "No 02 Main Street Kosgama",
+   "lat": 6.940501,
+   "lng": 80.136933,
+   "NameoftheBranchATMATMCode": "Kosgama"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo Outer",
+   "NameoftheBranchATMIdName": "Panagoda",
+   "Address": "ARMY H.Q Panagoda Homagama",
+   "lat": 6.848441,
+   "lng": 80.018154,
+   "NameoftheBranchATMATMCode": "Panagoda"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo Outer",
+   "NameoftheBranchATMIdName": "Godagama",
+   "Address": "No : 679 Avissawella Road Godagama",
+   "lat": 6.851938,
+   "lng": 80.033059,
+   "NameoftheBranchATMATMCode": "Godagama"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo Outer",
+   "NameoftheBranchATMIdName": "Gangodawila",
+   "Address": "Sri Jayawardanapura  University Premises Gangodawila Nugegoda",
+   "lat": 6.852889,
+   "lng": 79.906058,
+   "NameoftheBranchATMATMCode": "Sri Jayawardenapura Uni"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo Outer",
+   "NameoftheBranchATMIdName": "Gothatuwa",
+   "Address": "No : 19 gothatuwa new Town Kotikawatta",
+   "lat": 6.923425,
+   "lng": 79.912961,
+   "NameoftheBranchATMATMCode": "Gothatuwa"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo Outer",
+   "NameoftheBranchATMIdName": "Nugegoda",
+   "Address": "No:197/B, Pagoda Road Nugegoda",
+   "lat": 6.875302,
+   "lng": 79.891925,
+   "NameoftheBranchATMATMCode": "Nugegoda"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo Outer",
+   "NameoftheBranchATMIdName": "Thalawathugoda",
+   "Address": "No : 351/A Pannipitiya Road Thalawathugoda",
+   "lat": 6.875248,
+   "lng": 79.93599,
+   "NameoftheBranchATMATMCode": "Thalawathugoda"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo Outer",
+   "NameoftheBranchATMIdName": "Battaramulla ",
+   "Address": "Lakviru Senawa Battaramulla.",
+   "lat": 6.895267,
+   "lng": 79.9241,
+   "NameoftheBranchATMATMCode": "Lakviru Sevana"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo Outer",
+   "NameoftheBranchATMIdName": "Hanwella",
+   "Address": "No :10 Highlevel Road  Pahathgama Hanwella",
+   "lat": 6.903274,
+   "lng": 80.086988,
+   "NameoftheBranchATMATMCode": "Hanwella"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo Outer",
+   "NameoftheBranchATMIdName": "Hanwella",
+   "Address": "No : 14 Kahahena,Waga.",
+   "lat": 6.900801,
+   "lng": 80.127872,
+   "NameoftheBranchATMATMCode": "Kahahena"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo Outer",
+   "NameoftheBranchATMIdName": "Pitakotte",
+   "Address": "No : 293/14 Temple Road Thalapathpitiya",
+   "lat": 6.867703,
+   "lng": 79.926463,
+   "NameoftheBranchATMATMCode": "Thalapathpitiya"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo Outer",
+   "NameoftheBranchATMIdName": "Moratumulla ",
+   "Address": "No : 209 De Soyza Road Moratumulla Moratuwa",
+   "lat": 6.787979,
+   "lng": 79.895301,
+   "NameoftheBranchATMATMCode": "Moratumulla "
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo Outer",
+   "NameoftheBranchATMIdName": "Kottawa ",
+   "Address": "No : 126/2 B Kaduwela Road Athurugiriya",
+   "lat": 6.877841,
+   "lng": 79.990262,
+   "NameoftheBranchATMATMCode": "Athurugiriya"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo Outer",
+   "NameoftheBranchATMIdName": "Kottawa ",
+   "Address": "No : 146/74/ B/1 Salmal Place  Mattegoda     ",
+   "lat": 6.818983,
+   "lng": 79.970361,
+   "NameoftheBranchATMATMCode": "Mattegoda"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo Outer",
+   "NameoftheBranchATMIdName": "Homagama",
+   "Address": "Highlevel Road Panaluwa",
+   "lat": 6.8560885,
+   "lng": 80.0662596,
+   "NameoftheBranchATMATMCode": "Panaluwa"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo Outer",
+   "NameoftheBranchATMIdName": "Piliyandala City",
+   "Address": "No 71 Moratuwa Road  Piliyandala",
+   "lat": 6.80107,
+   "lng": 79.920932,
+   "NameoftheBranchATMATMCode": "Piliyandala City"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo Outer",
+   "NameoftheBranchATMIdName": "Battaramulla ",
+   "Address": "No :205 /3/A Hokandara South Hokandara",
+   "lat": 6.880613,
+   "lng": 79.9576179,
+   "NameoftheBranchATMATMCode": "Hokandara SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo South",
+   "NameoftheBranchATMIdName": "Golden Jubilee",
+   "Address": "Land Reclamation premises - Rajagiriya",
+   "lat": 6.909962,
+   "lng": 79.888542,
+   "NameoftheBranchATMATMCode": "Mcdonald Atm"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo South",
+   "NameoftheBranchATMIdName": "Golden Jubilee",
+   "Address": "Lady Ridchway Hospital Borella",
+   "lat": 6.916859,
+   "lng": 79.875092,
+   "NameoftheBranchATMATMCode": "LRH Borella"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo South",
+   "NameoftheBranchATMIdName": "Suduwella",
+   "Address": "No.226,   Deens Road, Colombo 10.",
+   "lat": 6.923625,
+   "lng": 79.864775,
+   "NameoftheBranchATMATMCode": "Suduwella SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo South",
+   "NameoftheBranchATMIdName": "Hyde Park Corner",
+   "Address": "50, Shanthi Building, Hydepark Corner, Colombo 02",
+   "lat": 6.917839,
+   "lng": 79.860234,
+   "NameoftheBranchATMATMCode": "Hyde Park Corner"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo South",
+   "NameoftheBranchATMIdName": "Borella ",
+   "Address": "P. Sara Tamil Union Cricket and Athletic club premises No 301 Lesley Ranagala Mw Colombo 8",
+   "lat": 6.91798,
+   "lng": 79.884073,
+   "NameoftheBranchATMATMCode": "Oval Ground ATM"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo South",
+   "NameoftheBranchATMIdName": "Town Hall",
+   "Address": "25, Kynsey Road, Colombo 08",
+   "lat": 6.91873,
+   "lng": 79.871212,
+   "NameoftheBranchATMATMCode": "Medical Faculty SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo South",
+   "NameoftheBranchATMIdName": "Narahenpita",
+   "Address": "R.M.V. No. 341, Elvitigala Mawatha.  Colombo 05",
+   "lat": 6.900215,
+   "lng": 79.877405,
+   "NameoftheBranchATMATMCode": "RMV Narahenpita Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo South",
+   "NameoftheBranchATMIdName": "Narahenpita",
+   "Address": "Army Hospital Elwitigala Mw Narahenpita",
+   "lat": 6.899878,
+   "lng": 79.876966,
+   "NameoftheBranchATMATMCode": "Army Hospital Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo South",
+   "NameoftheBranchATMIdName": "Narahenpita",
+   "Address": "Narahenpita Economic Centre Narahenpita",
+   "lat": 6.894285,
+   "lng": 79.848812,
+   "NameoftheBranchATMATMCode": "Narahenpita Economic "
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo South",
+   "NameoftheBranchATMIdName": "Narahenpita",
+   "Address": "475, Elvitigala Mw. Colombo 05",
+   "lat": 6.89461,
+   "lng": 79.877541,
+   "NameoftheBranchATMATMCode": "Narahenpita Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo South",
+   "NameoftheBranchATMIdName": "Thimbirisayaya",
+   "Address": "Colombo Campus, Munidasa Kumaratunga Mawatha, Colombo 03",
+   "lat": 6.899243,
+   "lng": 79.860237,
+   "NameoftheBranchATMATMCode": "Colombo University SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo South",
+   "NameoftheBranchATMIdName": "Union Place",
+   "Address": "Ministry of Finance,   Colombo 01",
+   "lat": 6.931162,
+   "lng": 79.843084,
+   "NameoftheBranchATMATMCode": "Treasury SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Colombo South",
+   "NameoftheBranchATMIdName": "Town Hall",
+   "Address": "IOC Filling station Horton place Colombo ",
+   "lat": 6.9113461,
+   "lng": 79.8627332,
+   "NameoftheBranchATMATMCode": "IOC Horton Place"
+ },
+ {
+   "Type": "ATM",
+   "District": "Galle",
+   "NameoftheBranchATMIdName": "Udugama",
+   "Address": "People's Bank, Galle Road, Udugama.",
+   "lat": 6.201588,
+   "lng": 80.335279,
+   "NameoftheBranchATMATMCode": "Udugama Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Galle",
+   "NameoftheBranchATMIdName": "Galle Main Street ",
+   "Address": "People's Bank, No.38 A, Dr.Richard Pathirana Building, Talbet Town, Galle",
+   "lat": 6.034915,
+   "lng": 80.217427,
+   "NameoftheBranchATMATMCode": "Galle Main Street  Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Galle",
+   "NameoftheBranchATMIdName": "Ahanagama",
+   "Address": "People's Bank, Galle Road, Ahangama.",
+   "lat": 5.9728,
+   "lng": 80.3646,
+   "NameoftheBranchATMATMCode": "Ahanagama Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Galle",
+   "NameoftheBranchATMIdName": "Uragasmanhandiya",
+   "Address": "People's Bank, Kosgoda Road, Uragasmanhandiya.",
+   "lat": 6.343363,
+   "lng": 80.079504,
+   "NameoftheBranchATMATMCode": "Uragasmanhandiya Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Galle",
+   "NameoftheBranchATMIdName": "Batapola",
+   "Address": "People's Bank, Mahawatta, Batapola.",
+   "lat": 6.2267,
+   "lng": 80.1164,
+   "NameoftheBranchATMATMCode": "Batapola Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Galle",
+   "NameoftheBranchATMIdName": "Imaduwa",
+   "Address": "People's Bank, Ahangama Road, Imaduwa",
+   "lat": 6.034705,
+   "lng": 80.389697,
+   "NameoftheBranchATMATMCode": "Imaduwa Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Galle",
+   "NameoftheBranchATMIdName": "Talgasawala",
+   "Address": "People's Bank, Gallinda Junction, Thalgaswala.",
+   "lat": 6.244159,
+   "lng": 80.269305,
+   "NameoftheBranchATMATMCode": "Talgasawala Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Galle",
+   "NameoftheBranchATMIdName": "Wanduramba",
+   "Address": "People's Bank, Mapalagama Road, Wanduramba.",
+   "lat": 6.135061,
+   "lng": 80.254639,
+   "NameoftheBranchATMATMCode": "Wanduramba Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Galle",
+   "NameoftheBranchATMIdName": "Karapititya ",
+   "Address": "Labuduwa Dhakshinapaya",
+   "lat": 6.070748,
+   "lng": 80.235167,
+   "NameoftheBranchATMATMCode": "Labuduwa Dhakshinapaya"
+ },
+ {
+   "Type": "ATM",
+   "District": "Galle",
+   "NameoftheBranchATMIdName": "Galle Fort  ",
+   "Address": "People's Bank Pettigalawatta Service Centre, No. 18 , Pettigalawatta, Galle.",
+   "lat": 6.037099,
+   "lng": 80.222821,
+   "NameoftheBranchATMATMCode": "Pettigalawatta  SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Galle",
+   "NameoftheBranchATMIdName": "Galle Main Street ",
+   "Address": "Faculty of Engineering, University of Ruhuna Hapugala, Wakwella Road, Galle",
+   "lat": 6.079374,
+   "lng": 80.189776,
+   "NameoftheBranchATMATMCode": "Hapugala Engineering Faculty"
+ },
+ {
+   "Type": "ATM",
+   "District": "Galle",
+   "NameoftheBranchATMIdName": "Galle Main St.",
+   "Address": "People's Bank Pinnaduwa Service Centre, Pinnaduwa New City, Pinnaduiwa.",
+   "lat": 6.066391,
+   "lng": 80.268517,
+   "NameoftheBranchATMATMCode": "Pinnaduwa SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Galle",
+   "NameoftheBranchATMIdName": "Hikkaduwa",
+   "Address": "People's Bank Rathgama Service Centre, Galle Road, Ratgama.",
+   "lat": 6.093046,
+   "lng": 80.139459,
+   "NameoftheBranchATMATMCode": "Ratgama SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Galle",
+   "NameoftheBranchATMIdName": "Ambalangoda",
+   "Address": "People's Bank Wathugedara  Service Centre, Elpitiya Road, Wathugedara.",
+   "lat": 6.261334,
+   "lng": 80.05975,
+   "NameoftheBranchATMATMCode": "Watugedara SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Galle",
+   "NameoftheBranchATMIdName": "Hikkaduwa",
+   "Address": "People's Bank Gonapinuwala Service Centre, Four Way Junction, Gonapinuwala.",
+   "lat": 6.141514,
+   "lng": 80.137002,
+   "NameoftheBranchATMATMCode": "Gonapinuwala SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Galle",
+   "NameoftheBranchATMIdName": "Galle Main Street ",
+   "Address": "People's Bank, No.38 A, Dr.Richard Pathirana Building, Talbet Town, Galle",
+   "lat": 6.034915,
+   "lng": 80.217427,
+   "NameoftheBranchATMATMCode": "Galle Bazzar - 2"
+ },
+ {
+   "Type": "ATM",
+   "District": "Galle",
+   "NameoftheBranchATMIdName": "Imaduwa",
+   "Address": "People's Bank Bogahagoda Service Centre, Akuressa Road, Bogahagoda.",
+   "lat": 6.037601,
+   "lng": 80.304331,
+   "NameoftheBranchATMATMCode": "Bogahagoda SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Galle",
+   "NameoftheBranchATMIdName": "Ambalangoda",
+   "Address": "People's Bank Wathugedara  Service Centre, Elpitiya Road, Wathugedara.",
+   "lat": 6.261334,
+   "lng": 80.05975,
+   "NameoftheBranchATMATMCode": "Watugedara SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Negombo Branch",
+   "Address": "Delgashandiya, Katana",
+   "lat": 7.255371,
+   "lng": 79.913742,
+   "NameoftheBranchATMATMCode": "Katana SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Kaleniya Branch",
+   "Address": "University of Kelaniya",
+   "lat": 6.971698,
+   "lng": 79.916703,
+   "NameoftheBranchATMATMCode": "Kelaniya University Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Kaleniya Branch",
+   "Address": "People's Bank, Sinharamulla",
+   "lat": 6.949991,
+   "lng": 79.916787,
+   "NameoftheBranchATMATMCode": "Sinharamulla SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Pugoda Branch",
+   "Address": "No. 216/11, Main Street , Dompe ",
+   "lat": 6.949675,
+   "lng": 80.058125,
+   "NameoftheBranchATMATMCode": "Dompe SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Marandagahamula Branch",
+   "Address": "Miris Wattha, Demanhandiya",
+   "lat": 7.224272,
+   "lng": 80.019954,
+   "NameoftheBranchATMATMCode": "Divulapitiya SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Mirigama Branch",
+   "Address": "Railway Station Mirigama",
+   "lat": 7.242581,
+   "lng": 80.126955,
+   "NameoftheBranchATMATMCode": "Mirigama Station"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Mahara Branch",
+   "Address": "Mahara MPCS Building, Kandy Road, Mahara, Kadawatha",
+   "lat": 6.991169,
+   "lng": 79.940086,
+   "NameoftheBranchATMATMCode": "Mahara Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Mahara Branch",
+   "Address": "No.262/A, Enderamulla, Wattala",
+   "lat": 6.996317,
+   "lng": 79.917963,
+   "NameoftheBranchATMATMCode": "Enderamulla SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Minuwangoda",
+   "Address": "No.102/A/1,Airport Rd, Andiambalama",
+   "lat": 7.186039,
+   "lng": 79.904319,
+   "NameoftheBranchATMATMCode": "Andiambalama"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Ja-Ela Branch",
+   "Address": "No.196/8,Minuwangoda Rd, Madama  Juncion,Ekala, Ja-Ela     ",
+   "lat": 7.101873,
+   "lng": 79.910133,
+   "NameoftheBranchATMATMCode": "Ekala SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Kadawatha Branch",
+   "Address": "430/6,Ihala Karagahamuna, Kadawatha",
+   "lat": 7.005031,
+   "lng": 79.956051,
+   "NameoftheBranchATMATMCode": "Kadawatha Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Kadawatha Branch",
+   "Address": "NO.121/A/1,Pahala Imbulgoda,Kandy Road,Imbulgoda",
+   "lat": 7.034394,
+   "lng": 79.990242,
+   "NameoftheBranchATMATMCode": "Kirillawala SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Katunayaka Branch",
+   "Address": "No.22/1,Awariwaththa,Katunayake",
+   "lat": 7.165641,
+   "lng": 79.884935,
+   "NameoftheBranchATMATMCode": "Awariwatta SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Nittambuwa Branch",
+   "Address": "People's Bank, Senani Bakary Building, Wathupitiwala ",
+   "lat": 7.125742,
+   "lng": 80.110559,
+   "NameoftheBranchATMATMCode": "Wathupitiwala SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Ragama Branch",
+   "Address": "General Hospital Ragama",
+   "lat": 7.028333,
+   "lng": 79.924053,
+   "NameoftheBranchATMATMCode": "Ragama Hospital"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Pamunugama Branch",
+   "Address": "14, Bopitiya, Pamunugama.",
+   "lat": 7.079323,
+   "lng": 79.859945,
+   "NameoftheBranchATMATMCode": "Pamunugama Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Seeduwa Branch",
+   "Address": "No,08, Kotugoda Road, Seeduwa ",
+   "lat": 7.13114,
+   "lng": 79.876493,
+   "NameoftheBranchATMATMCode": "Seeduwa Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Seeduwa Branch",
+   "Address": "Bandaranaike Int.Airport Premises (Arrival Lounge), Katunayake.",
+   "lat": 7.173351,
+   "lng": 79.887288,
+   "NameoftheBranchATMATMCode": "Airport Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Ganemulla Branch",
+   "Address": "No. 273/4, Kadawatha Road Ganemulla",
+   "lat": 7.065685,
+   "lng": 79.960167,
+   "NameoftheBranchATMATMCode": "Ganemulla Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Ganemulla Branch",
+   "Address": "Railway Station Ganemulla",
+   "lat": 7.068432,
+   "lng": 79.960902,
+   "NameoftheBranchATMATMCode": "Ganemulla Station"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Yakkala Branch",
+   "Address": "Weerasiri Building , Yakkala ",
+   "lat": 7.086858,
+   "lng": 80.034579,
+   "NameoftheBranchATMATMCode": "Yakkala Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Yakkala Branch",
+   "Address": "Kandy Rod, Mudungoda, Balummahara ",
+   "lat": 7.066908,
+   "lng": 80.012544,
+   "NameoftheBranchATMATMCode": "Mudungoda SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Ragama Branch",
+   "Address": "Faculty of Medicine - University of Kelaniya, Annasihena Road, Ragama",
+   "lat": 7.0286465,
+   "lng": 79.9255655,
+   "NameoftheBranchATMATMCode": "Medical Faculty Ragama"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Ragama Branch",
+   "Address": "Timex Garments Ltd Block A EPZ Watupitiwala",
+   "lat": 7.123672,
+   "lng": 80.1055522,
+   "NameoftheBranchATMATMCode": "Timex Garment Wathupitiwala"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Seeduwa Branch",
+   "Address": "Peoples Bank Sevice Center No.K-3 ,  Bathalawatta , Raddoluwa, Kotugoda ",
+   "lat": 7.138444,
+   "lng": 79.899841,
+   "NameoftheBranchATMATMCode": "Raddolugama SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Gampaha Branch",
+   "Address": "No.158/11,Naiwala Rd,Udugampola",
+   "lat": 7.125798,
+   "lng": 79.981611,
+   "NameoftheBranchATMATMCode": "Udugampola SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Negombo Branch",
+   "Address": "No.159, Colombo Road, Negombo",
+   "lat": 7.168209,
+   "lng": 79.867796,
+   "NameoftheBranchATMATMCode": "Negombo Main st. SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Wattala",
+   "Address": "Toyota Lanka (Private) Limited., Negombo Road, Wattala",
+   "lat": 6.9870447,
+   "lng": 79.887512,
+   "NameoftheBranchATMATMCode": "Toyota Lanka Wattala"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Mirigama Branch",
+   "Address": "Mirigama Road, Kotadeniyawa ",
+   "lat": 7.284084,
+   "lng": 80.066081,
+   "NameoftheBranchATMATMCode": "Kotadeniyawa SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Wattala",
+   "Address": "People's Bank Elakanda Hendala Wattala",
+   "lat": 6.994561,
+   "lng": 79.876163,
+   "NameoftheBranchATMATMCode": "Elakanda SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Kiribathgoda",
+   "Address": "Peoples Bank , Mawaramandiya.",
+   "lat": 6.989619,
+   "lng": 79.973821,
+   "NameoftheBranchATMATMCode": "Mawaramandiya SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Kiribathgoda",
+   "Address": "Sapugaskanda Army camp",
+   "lat": 6.9741221,
+   "lng": 79.9085658,
+   "NameoftheBranchATMATMCode": "Sapugaskanda Army camp"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Negombo Branch",
+   "Address": "Railway Station Negombo",
+   "lat": 7.2104272,
+   "lng": 79.8397037,
+   "NameoftheBranchATMATMCode": "Negombo Railway"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Veyangoda",
+   "Address": "Veyangoda Railway Station, Paramulla Road, Veyangoda",
+   "lat": 7.1526466,
+   "lng": 80.0563242,
+   "NameoftheBranchATMATMCode": "Veyangoda Railway"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Katunayaka Branch",
+   "Address": "SLAF Base Katunayake",
+   "lat": 7.1828884,
+   "lng": 79.8668382,
+   "NameoftheBranchATMATMCode": "Katunayaka Air Force"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Ragama Branch",
+   "Address": "Railway Station Ragama",
+   "lat": 7.0300185,
+   "lng": 79.9192446,
+   "NameoftheBranchATMATMCode": "Ragama Railway"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Mirigama",
+   "Address": "Madagampitiya Rd, Pallewela ",
+   "lat": 7.197701,
+   "lng": 80.088291,
+   "NameoftheBranchATMATMCode": "Pallewela SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Kirindiwela",
+   "Address": "Hanwella Road, Urapola",
+   "lat": 7.096805,
+   "lng": 80.144933,
+   "NameoftheBranchATMATMCode": "Urapola SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Gampaha",
+   "NameoftheBranchATMIdName": "Ganemulla",
+   "Address": "No.409/2/D, Kadawatha Road, Walipillawa Junction, Walipillawa, Ganemulla",
+   "lat": 7.038285,
+   "lng": 79.957498,
+   "NameoftheBranchATMATMCode": "Welipillewa SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Hambantota",
+   "NameoftheBranchATMIdName": "Tangalle Branch",
+   "Address": "No: 146/A, Matara Road, Tangalle",
+   "lat": 6.02462,
+   "lng": 80.793573,
+   "NameoftheBranchATMATMCode": "Tangalle Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Hambantota",
+   "NameoftheBranchATMIdName": "Sooriyawewa Branch",
+   "Address": "Senewirathna Building, Suriyawewa",
+   "lat": 6.304635,
+   "lng": 81.002971,
+   "NameoftheBranchATMATMCode": "Sooriyawewa Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Hambantota",
+   "NameoftheBranchATMIdName": "Ranna Branch",
+   "Address": "Tissa Road, Ranna",
+   "lat": 6.09859,
+   "lng": 80.875648,
+   "NameoftheBranchATMATMCode": "Ranna Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Hambantota",
+   "NameoftheBranchATMIdName": "Hambantota Branch",
+   "Address": "Hambantota Road, Weeravila",
+   "lat": 6.252382,
+   "lng": 81.227558,
+   "NameoftheBranchATMATMCode": "Weerawila SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Hambantota",
+   "NameoftheBranchATMIdName": "Thissamaharama Branch",
+   "Address": "Mulgala Junction 07, Lunugamwehera",
+   "lat": 6.347713,
+   "lng": 81.195904,
+   "NameoftheBranchATMATMCode": "Lunugamwehera SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Hambantota",
+   "NameoftheBranchATMIdName": "Tangalle Branch",
+   "Address": "Vitharandeniya, Tangalle",
+   "lat": 6.088544,
+   "lng": 80.784116,
+   "NameoftheBranchATMATMCode": "Vitharandeniya SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Hambantota",
+   "NameoftheBranchATMIdName": "Middeniya Branch",
+   "Address": "Urubokka Road, Katuwana",
+   "lat": 6.26551,
+   "lng": 80.69106,
+   "NameoftheBranchATMATMCode": "Katuwana SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Hambantota",
+   "NameoftheBranchATMIdName": "Hambantota Branch",
+   "Address": "Hambantota-Gonnoruwa-Meegahajandura Rd, Hambantota",
+   "lat": 6.1680276,
+   "lng": 81.1251742,
+   "NameoftheBranchATMATMCode": "Admin complex Hambantota"
+ },
+ {
+   "Type": "ATM",
+   "District": "Hambantota",
+   "NameoftheBranchATMIdName": "Kudawella",
+   "Address": "Parewatta, Kudawella Central, Nakulugamuwa",
+   "lat": 5.982395,
+   "lng": 80.734852,
+   "NameoftheBranchATMATMCode": "Kudawella"
+ },
+ {
+   "Type": "ATM",
+   "District": "Hambantota",
+   "NameoftheBranchATMIdName": "Suriyawewa",
+   "Address": "General Sir John Kotelawala Defense University, Southern Campus",
+   "lat": 6.3560442,
+   "lng": 81.0026654,
+   "NameoftheBranchATMATMCode": "Suriyawewa KDU"
+ },
+ {
+   "Type": "ATM",
+   "District": "Hambantota",
+   "NameoftheBranchATMIdName": "Ambalantota",
+   "Address": "No: 05, Tissa Road, Hungama",
+   "lat": 6.110215,
+   "lng": 80.932229,
+   "NameoftheBranchATMATMCode": "Hungama SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Jaffna",
+   "NameoftheBranchATMIdName": "Manipay SC (J/Stanley Road - 030)",
+   "Address": "Alady Junction, Jaffna Road, Manipay",
+   "lat": 9.71721,
+   "lng": 79.995997,
+   "NameoftheBranchATMATMCode": "Manipay SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Jaffna",
+   "NameoftheBranchATMIdName": "Kankesanthurai ",
+   "Address": "No. 312, Hospital Road, Jaffna",
+   "lat": 9.667058,
+   "lng": 80.009814,
+   "NameoftheBranchATMATMCode": "Kankesanthurai - 031"
+ },
+ {
+   "Type": "ATM",
+   "District": "Jaffna",
+   "NameoftheBranchATMIdName": "J/Main Street",
+   "Address": "No. 384, Main Street, Jaffna",
+   "lat": 9.657489,
+   "lng": 80.024751,
+   "NameoftheBranchATMATMCode": "Jaffna Main Street Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Jaffna",
+   "NameoftheBranchATMIdName": "Nelliadi",
+   "Address": "Main Street, Nelliady",
+   "lat": 9.799625,
+   "lng": 80.198824,
+   "NameoftheBranchATMATMCode": "Nelliadi Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Jaffna",
+   "NameoftheBranchATMIdName": "Chavakacheri",
+   "Address": "No. 125, 129, Kandy Road, Chavakachcheri",
+   "lat": 9.659683,
+   "lng": 80.164485,
+   "NameoftheBranchATMATMCode": "Chavakacheri Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Jaffna",
+   "NameoftheBranchATMIdName": "Kaithady SC ",
+   "Address": "No.86, Kannathiddy Road, Jaffna.",
+   "lat": 9.670818,
+   "lng": 80.097453,
+   "NameoftheBranchATMATMCode": "Kaithady Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Jaffna",
+   "NameoftheBranchATMIdName": "J/University ",
+   "Address": "University of Jaffna, Thirunelvely",
+   "lat": 9.683879,
+   "lng": 80.021611,
+   "NameoftheBranchATMATMCode": "Jaffna University  Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Jaffna",
+   "NameoftheBranchATMIdName": "Point Pedro ",
+   "Address": "No. 165/21, Veerabaku Building, Main Street, Point Pedro",
+   "lat": 9.824724,
+   "lng": 80.236844,
+   "NameoftheBranchATMATMCode": "Point Pedro Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Jaffna",
+   "NameoftheBranchATMIdName": "Kodikamam ",
+   "Address": "Kandy Road, Kodikamam",
+   "lat": 9.680704,
+   "lng": 80.218779,
+   "NameoftheBranchATMATMCode": "Kodikamam Railway Station"
+ },
+ {
+   "Type": "ATM",
+   "District": "Jaffna",
+   "NameoftheBranchATMIdName": "Chunnakam",
+   "Address": "Point Pedro Road, Kopay",
+   "lat": 9.706891,
+   "lng": 80.072026,
+   "NameoftheBranchATMATMCode": "Kopay SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Jaffna",
+   "NameoftheBranchATMIdName": "Thellipilei",
+   "Address": "Peoples Bank Thellipilei",
+   "lat": 9.788755,
+   "lng": 80.0242316,
+   "NameoftheBranchATMATMCode": "Thellipilei "
+ },
+ {
+   "Type": "ATM",
+   "District": "Jaffna",
+   "NameoftheBranchATMIdName": "Chankanei",
+   "Address": "Kareinagar Bus stand ",
+   "lat": 9.747189,
+   "lng": 79.8744892,
+   "NameoftheBranchATMATMCode": "Kareinagar Bus stand"
+ },
+ {
+   "Type": "ATM",
+   "District": "Jaffna",
+   "NameoftheBranchATMIdName": "VVT",
+   "Address": "People's Bank, Vallai-Uduppiddi-Valvedditturai Road, Valvettithurai",
+   "lat": 9.818599,
+   "lng": 80.1677459,
+   "NameoftheBranchATMATMCode": "VVT"
+ },
+ {
+   "Type": "ATM",
+   "District": "Jaffna",
+   "NameoftheBranchATMIdName": "Chankanei",
+   "Address": "Tellipalai Road, Pandatharippu",
+   "lat": 9.773682,
+   "lng": 79.9700901,
+   "NameoftheBranchATMATMCode": "Pandithiruppu SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Jaffna",
+   "NameoftheBranchATMIdName": "J/Stanley Road",
+   "Address": "K.K.S Road, Kokuvil",
+   "lat": 9.699426,
+   "lng": 80.015248,
+   "NameoftheBranchATMATMCode": "Kokuvil SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Jaffna",
+   "NameoftheBranchATMIdName": "J/Main Street",
+   "Address": "Palaly Road, Urumpirai Junction, Urumpirai.",
+   "lat": 9.717834,
+   "lng": 80.044417,
+   "NameoftheBranchATMATMCode": "Urumpirai S/C"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kalutara",
+   "NameoftheBranchATMIdName": "Baduraliya",
+   "Address": "Co-operate Buidling,Rathnapura Road, Baduraliya",
+   "lat": 6.51648,
+   "lng": 80.23169,
+   "NameoftheBranchATMATMCode": "Baduraliya Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kalutara",
+   "NameoftheBranchATMIdName": "Bulathsinhala",
+   "Address": "Athura, Bulathsinhala",
+   "lat": 6.65046,
+   "lng": 80.17676,
+   "NameoftheBranchATMATMCode": "Bulathsinhala Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kalutara",
+   "NameoftheBranchATMIdName": "Maggona",
+   "Address": "Galle Road, Maggona",
+   "lat": 6.50344,
+   "lng": 79.9804,
+   "NameoftheBranchATMATMCode": "Maggona Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kalutara",
+   "NameoftheBranchATMIdName": "Neboda",
+   "Address": "Horana Road, Neboda.",
+   "lat": 6.59618,
+   "lng": 80.09099,
+   "NameoftheBranchATMATMCode": "Neboda Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kalutara",
+   "NameoftheBranchATMIdName": "Pelawatta",
+   "Address": "Mathugama Road, Pelawatta.",
+   "lat": 6.4052,
+   "lng": 80.21699,
+   "NameoftheBranchATMATMCode": "Pelawatta Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kalutara",
+   "NameoftheBranchATMIdName": "Kalutara",
+   "Address": "Hospital Junction, Nagoda, Kalutara",
+   "lat": 6.5642,
+   "lng": 79.98474,
+   "NameoftheBranchATMATMCode": "Nagoda Hospital Junc SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kalutara",
+   "NameoftheBranchATMIdName": "Alutgama",
+   "Address": "Dharga Town, Aluthgama",
+   "lat": 6.4419,
+   "lng": 80.01506,
+   "NameoftheBranchATMATMCode": "Dharga Town SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kalutara",
+   "NameoftheBranchATMIdName": "Horana",
+   "Address": "No.184/D, Horana Road, Millaniya",
+   "lat": 6.68107,
+   "lng": 80.02101,
+   "NameoftheBranchATMATMCode": "Millaniya SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kalutara",
+   "NameoftheBranchATMIdName": "Kalutara",
+   "Address": "National Institute of Health Sciences Katukurunda",
+   "lat": 6.5586455,
+   "lng": 79.9752277,
+   "NameoftheBranchATMATMCode": "NIHS Kalutara"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kalutara",
+   "NameoftheBranchATMIdName": "Horana",
+   "Address": "No.288/B/3, Moragahahena, Millewa.",
+   "lat": 6.78489,
+   "lng": 80.05588,
+   "NameoftheBranchATMATMCode": "Moragahahena SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kalutara",
+   "NameoftheBranchATMIdName": "Horana",
+   "Address": "No.105/1/B, Colombo Road, Gonapola.",
+   "lat": 6.76307,
+   "lng": 80.01296,
+   "NameoftheBranchATMATMCode": "Gonapola SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kalutara",
+   "NameoftheBranchATMIdName": "Horana",
+   "Address": "No.87/A/1, Panadura Road, Pokunuwita.",
+   "lat": 6.72613,
+   "lng": 80.03255,
+   "NameoftheBranchATMATMCode": "Pokunuwita SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kalutara",
+   "NameoftheBranchATMIdName": "Wadduwa",
+   "Address": "No. 91, Moronthuduwa Junction, Moronthuduwa.",
+   "lat": 6.66243,
+   "lng": 79.97168,
+   "NameoftheBranchATMATMCode": "Moronthuduwa SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kalutara",
+   "NameoftheBranchATMIdName": "Pelawatta",
+   "Address": "Main Street, Meegahathenna.",
+   "lat": 6.43874,
+   "lng": 80.1905,
+   "NameoftheBranchATMATMCode": "Meegahatenna SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kalutara",
+   "NameoftheBranchATMIdName": "Matugama",
+   "Address": "Thudugala, Dodangoda. ",
+   "lat": 6.55468,
+   "lng": 80.02364,
+   "NameoftheBranchATMATMCode": "Dodangoda SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kalutara",
+   "NameoftheBranchATMIdName": "Bandaragama",
+   "Address": "No.336,  Alubomulla, Bandaragama.",
+   "lat": 6.70651,
+   "lng": 79.94941,
+   "NameoftheBranchATMATMCode": "Alubomulla SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Kandy",
+   "Address": "No. 04, Dalada Veediya,Kandy",
+   "lat": 7.2930782,
+   "lng": 80.6367362,
+   "NameoftheBranchATMATMCode": "Kandy City Center Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Kandy",
+   "Address": "Central Market Kandy",
+   "lat": 7.2923971,
+   "lng": 80.6349918,
+   "NameoftheBranchATMATMCode": "Market Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Kandy",
+   "Address": "General Hospital Kandy",
+   "lat": 7.288175,
+   "lng": 80.631013,
+   "NameoftheBranchATMATMCode": "Hospital Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Kandy",
+   "Address": "Railway Station Kandy",
+   "lat": 7.290451,
+   "lng": 80.632878,
+   "NameoftheBranchATMATMCode": "Kandy Railway Station Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Kandy",
+   "Address": "No 43rd Mile Post Ampitiya",
+   "lat": 7.267461,
+   "lng": 80.666217,
+   "NameoftheBranchATMATMCode": "Ampitiya Offsite ATM"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Kandy",
+   "Address": "No.815/1, Courts Complex, Kandy",
+   "lat": 7.272096,
+   "lng": 80.609483,
+   "NameoftheBranchATMATMCode": "Lawyers Complex SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Kandy",
+   "Address": "Central Provincial Council Administrative Complex, Pallekele",
+   "lat": 7.280447,
+   "lng": 80.696774,
+   "NameoftheBranchATMATMCode": "Pallekele SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Gampola",
+   "Address": "No. 58 - 60, Nuwaraeliya Rd,Gampola ",
+   "lat": 7.162631,
+   "lng": 80.571574,
+   "NameoftheBranchATMATMCode": "Gampola SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Peradeniya",
+   "Address": "University Of Peradeniya, Peradeniya",
+   "lat": 7.253372,
+   "lng": 80.597369,
+   "NameoftheBranchATMATMCode": "Peradeniya University Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Katugastota",
+   "Address": "No.133, Hedeniya,Werellagama ",
+   "lat": 7.33863,
+   "lng": 80.557074,
+   "NameoftheBranchATMATMCode": "Hedeniya SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Hasalaka",
+   "Address": "No.06, New Town, Kandy Rd, Hasalaka",
+   "lat": 7.351368,
+   "lng": 80.950085,
+   "NameoftheBranchATMATMCode": "Hasalaka Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Manikhinna",
+   "Address": "M.P.C.S. Building Menikhinna ",
+   "lat": 7.316975,
+   "lng": 80.700234,
+   "NameoftheBranchATMATMCode": "Manikhinna Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Senkadagala",
+   "Address": "No.167,D.S.Senanayake Veediya,Kandy",
+   "lat": 7.297268,
+   "lng": 80.637057,
+   "NameoftheBranchATMATMCode": "Senkadagala Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Ankumbura",
+   "Address": "No.24,Alawatugoda Rd,Ankumbura",
+   "lat": 7.438088,
+   "lng": 80.571703,
+   "NameoftheBranchATMATMCode": "Ankumbura Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Daulagala",
+   "Address": "No. 19/2, Daulagala Handessa",
+   "lat": 7.228039,
+   "lng": 80.574951,
+   "NameoftheBranchATMATMCode": "Daulagala Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Panwila",
+   "Address": "No.75/26, Madolkele Road,Panvila",
+   "lat": 7.362123,
+   "lng": 80.714908,
+   "NameoftheBranchATMATMCode": "Panwila Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Pilimatalawa",
+   "Address": "390, Colombo Road Pilimathalawa",
+   "lat": 7.1551,
+   "lng": 80.3304,
+   "NameoftheBranchATMATMCode": "Pilimatalawa Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Deltota",
+   "Address": "No.17, Hewaheta  Road,Deltota ",
+   "lat": 7.172612,
+   "lng": 80.695469,
+   "NameoftheBranchATMATMCode": "Deltota Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Pussellawa",
+   "Address": "No.433 & 435,Nuwaraeliya Road,Pussellawa ",
+   "lat": 7.108914,
+   "lng": 80.635241,
+   "NameoftheBranchATMATMCode": "Pussellawa Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Hataraliyadda",
+   "Address": "Rabukkana Rd,Hatharaliyadda",
+   "lat": 7.334466,
+   "lng": 80.470832,
+   "NameoftheBranchATMATMCode": "Hataraliyadda Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Pujapitiya",
+   "Address": "No. 40, Main Street,poojapitiya",
+   "lat": 7.379666,
+   "lng": 80.586415,
+   "NameoftheBranchATMATMCode": "Pujapitiya Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Peradeniya",
+   "Address": "No.94/2, Main Rd, Muruthalawa",
+   "lat": 7.295702,
+   "lng": 80.570815,
+   "NameoftheBranchATMATMCode": "Muruthalawa SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Gampola",
+   "Address": "Kurunduwatta Bazzar,Kurunduwatta ",
+   "lat": 7.128052,
+   "lng": 80.530105,
+   "NameoftheBranchATMATMCode": "Kurunduwatta SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Teldeniya",
+   "Address": "Maligawalawwa,Udadumbara",
+   "lat": 7.318425,
+   "lng": 80.877579,
+   "NameoftheBranchATMATMCode": "Udu Dumbara SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Kadugannawa",
+   "Address": "No.141, Kandy Road,Kadugannawa",
+   "lat": 7.215298,
+   "lng": 80.566023,
+   "NameoftheBranchATMATMCode": "Kadugannawa Branch"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Hasalaka",
+   "Address": "Alikewala Building  31 Ela. Kolongoda",
+   "lat": 7.469621,
+   "lng": 80.944235,
+   "NameoftheBranchATMATMCode": "Kolongoda SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Katugastota",
+   "Address": "National Corporate Dev.Institute,Polgolla ",
+   "lat": 7.325025,
+   "lng": 80.648283,
+   "NameoftheBranchATMATMCode": "Polgolla SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Akurana",
+   "Address": "No. 57 B,Ambatenna",
+   "lat": 7.349431,
+   "lng": 80.617707,
+   "NameoftheBranchATMATMCode": "Ambatenna S/C"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kandy",
+   "NameoftheBranchATMIdName": "Senkadagala",
+   "Address": "No.55, Meeruppa,Marassana ",
+   "lat": 7.2064,
+   "lng": 80.7464,
+   "NameoftheBranchATMATMCode": "Marassana SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kegalle",
+   "NameoftheBranchATMIdName": "Kegalle",
+   "Address": "No.195,Main Street,Kegalle",
+   "lat": 7.254095,
+   "lng": 80.351864,
+   "NameoftheBranchATMATMCode": "Kegalle Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kegalle",
+   "NameoftheBranchATMIdName": "Yatiyantota",
+   "Address": "Market complex,Yatiyanthota",
+   "lat": 7.01445,
+   "lng": 80.17449,
+   "NameoftheBranchATMATMCode": "Yatiyantota Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kegalle",
+   "NameoftheBranchATMIdName": "Rambukkana",
+   "Address": "Railway Station Rambukkana",
+   "lat": 7.323322,
+   "lng": 80.38952,
+   "NameoftheBranchATMATMCode": "Rambukkana Railway Station"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kegalle",
+   "NameoftheBranchATMIdName": "Bulathkohupitiya",
+   "Address": "Kegalle Road,Bulathkohupitiya",
+   "lat": 7.106696,
+   "lng": 80.335024,
+   "NameoftheBranchATMATMCode": "Bulathkohupitiya Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kegalle",
+   "NameoftheBranchATMIdName": "Gonagaldeniya",
+   "Address": "No.31, Gonagaldeniya, Waharaka",
+   "lat": 7.076229,
+   "lng": 80.197298,
+   "NameoftheBranchATMATMCode": "Gonagaldeniya Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kegalle",
+   "NameoftheBranchATMIdName": "K/Bazaar",
+   "Address": "No.141A,Main Street,Kegalle",
+   "lat": 7.252531,
+   "lng": 80.341215,
+   "NameoftheBranchATMATMCode": "Kegalle Bazaar Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kegalle",
+   "NameoftheBranchATMIdName": "Hemmathagama",
+   "Address": "Mawanella Road,Hemmathagama",
+   "lat": 7.17574,
+   "lng": 80.500575,
+   "NameoftheBranchATMATMCode": "Hemmathagama Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kegalle",
+   "NameoftheBranchATMIdName": "Thulhiriya",
+   "Address": "MAS Fabric Park(pvt) Ltd,Kurunegala Road,Thulhiriya",
+   "lat": 7.272821,
+   "lng": 80.220934,
+   "NameoftheBranchATMATMCode": "Thulhiriya Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kegalle",
+   "NameoftheBranchATMIdName": "Aranayake",
+   "Address": "No.480,Dippitiya,Aranayaka",
+   "lat": 7.174164,
+   "lng": 80.458592,
+   "NameoftheBranchATMATMCode": "Aranayake Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kegalle",
+   "NameoftheBranchATMIdName": "Deraniyagala",
+   "Address": "Main Street,Deraniyagala",
+   "lat": 6.928063,
+   "lng": 80.340413,
+   "NameoftheBranchATMATMCode": "Deraniyagala Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kegalle",
+   "NameoftheBranchATMIdName": "Rambukkana",
+   "Address": "57, Katupitiya Road, Rambukkana",
+   "lat": 7.323322,
+   "lng": 80.38952,
+   "NameoftheBranchATMATMCode": "Rambukkana Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kegalle",
+   "NameoftheBranchATMIdName": "Kotiyakumbura",
+   "Address": "No.05,Main street,Kotiyakumbura",
+   "lat": 7.1236793,
+   "lng": 80.285692,
+   "NameoftheBranchATMATMCode": "Kotiyakumbura Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kegalle",
+   "NameoftheBranchATMIdName": "Kegalle",
+   "Address": "No.43,Bulathkohupitiya Road,Moronthota",
+   "lat": 7.173524,
+   "lng": 80.362361,
+   "NameoftheBranchATMATMCode": "Morontota SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kegalle",
+   "NameoftheBranchATMIdName": "Yatiyantota",
+   "Address": "No.01,Malwaththa Road,Kithulgala",
+   "lat": 6.59374,
+   "lng": 80.25446,
+   "NameoftheBranchATMATMCode": "Kithulgala SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kegalle",
+   "NameoftheBranchATMIdName": "Galgamuwa",
+   "Address": "People's Bank, Nelundeniya",
+   "lat": 7.234653,
+   "lng": 80.262742,
+   "NameoftheBranchATMATMCode": "Nelundeniya SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kegalle",
+   "NameoftheBranchATMIdName": "Dehiowita",
+   "Address": "No.24,Awissawella Road,Dehiowita",
+   "lat": 6.969369,
+   "lng": 80.265293,
+   "NameoftheBranchATMATMCode": "Dehiowita"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kegalle",
+   "NameoftheBranchATMIdName": "Warakapola",
+   "Address": "No.803,Karawanella Road,Galapitamada",
+   "lat": 7.1397785,
+   "lng": 80.2344904,
+   "NameoftheBranchATMATMCode": "Galapitamada SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kegalle",
+   "NameoftheBranchATMIdName": "Ruwanwella",
+   "Address": "No.645/1,Karawanella",
+   "lat": 7.023567,
+   "lng": 80.261112,
+   "NameoftheBranchATMATMCode": "Karawanella SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kegalle",
+   "NameoftheBranchATMIdName": "K/Bazaar",
+   "Address": "No.17,Dewalegama",
+   "lat": 7.285657,
+   "lng": 80.322284,
+   "NameoftheBranchATMATMCode": "Devalegama SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kegalle",
+   "NameoftheBranchATMIdName": "Warakapola",
+   "Address": "No.154,Hospital Junction,Medagama,Algama",
+   "lat": 7.1575491,
+   "lng": 80.1660246,
+   "NameoftheBranchATMATMCode": "Algama SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Maho",
+   "Address": "Rest House Road, Maho.",
+   "lat": 7.822704,
+   "lng": 80.273485,
+   "NameoftheBranchATMATMCode": "Maho Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Polgahawela",
+   "Address": "No : 196 , Kegalle Road , Polgahawela.",
+   "lat": 7.33031,
+   "lng": 80.304321,
+   "NameoftheBranchATMATMCode": "Polgahawela Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Polgahawela",
+   "Address": "Railway station Polgahawela",
+   "lat": 7.330641,
+   "lng": 80.303755,
+   "NameoftheBranchATMATMCode": "Polgahawela Railway Station"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Narammala / Katupotha Service Center",
+   "Address": "Kurunegala Road,Katupotha",
+   "lat": 7.533798,
+   "lng": 80.188387,
+   "NameoftheBranchATMATMCode": "Katupotha SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Giriulla",
+   "Address": "Negombo Road, Giriulla",
+   "lat": 7.328121,
+   "lng": 80.120822,
+   "NameoftheBranchATMATMCode": "Giriulla Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Giriulla",
+   "Address": "Loluwagoda",
+   "lat": 7.291186,
+   "lng": 80.134321,
+   "NameoftheBranchATMATMCode": "Loluwagoda Offsite ATM"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Nikaweratiya",
+   "Address": "Rest House Road, Nikaweratiya",
+   "lat": 7.748267,
+   "lng": 80.118213,
+   "NameoftheBranchATMATMCode": "Nikaweratiya Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Makandura",
+   "Address": "Makandura, Gonawila.",
+   "lat": 7.321664,
+   "lng": 79.975155,
+   "NameoftheBranchATMATMCode": "Makandura Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Makandura / Pannala Service Center",
+   "Address": "People's Bank,Pannala",
+   "lat": 7.329331,
+   "lng": 80.021437,
+   "NameoftheBranchATMATMCode": "Pannala SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Kurunegala",
+   "Address": "Teaching Hospital, Colombo Road, Kururnegala.",
+   "lat": 7.479504,
+   "lng": 80.358914,
+   "NameoftheBranchATMATMCode": "Kurunegala Hospital SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Hettipola",
+   "Address": "Chilaw Road, Hettipola.",
+   "lat": 7.606978,
+   "lng": 80.084008,
+   "NameoftheBranchATMATMCode": "Hettipola Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Bingiriya",
+   "Address": "Mukalanhena, Bingiriya",
+   "lat": 7.598391,
+   "lng": 79.940033,
+   "NameoftheBranchATMATMCode": "Bingiriya Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Galgamuwa / Ampanpola Service Center",
+   "Address": "No: 5 ,Anuradhapura road, Ambanpola.",
+   "lat": 7.917249,
+   "lng": 80.239927,
+   "NameoftheBranchATMATMCode": "Ambanpola SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Ridigama",
+   "Address": "Keppitigala Road, Ridigama.",
+   "lat": 7.548645,
+   "lng": 80.493005,
+   "NameoftheBranchATMATMCode": "Ridigama Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Ibbagamuwa / Kumbukgate Service Center",
+   "Address": "Madagala Road, kumbukgate",
+   "lat": 7.672327,
+   "lng": 80.416004,
+   "NameoftheBranchATMATMCode": "Kumbukgate SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Maliyadeva",
+   "Address": "No.03,Wathhimi Road, Kurunegala.",
+   "lat": 7.487297,
+   "lng": 80.366806,
+   "NameoftheBranchATMATMCode": "Maliyadeva  Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Maliyadeva / Piduruwella Service Center",
+   "Address": "Piduruwella, Uhumeeya",
+   "lat": 7.467912,
+   "lng": 80.304186,
+   "NameoftheBranchATMATMCode": "Piduruwella SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Kobeigane",
+   "Address": "Nikaweratiya Road, Kobeigane",
+   "lat": 7.65706,
+   "lng": 80.126627,
+   "NameoftheBranchATMATMCode": "Kobeigane Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Ethugalpura",
+   "Address": "Bauddaloka Mawatha, Kurunegala",
+   "lat": 7.482152,
+   "lng": 80.359799,
+   "NameoftheBranchATMATMCode": "Ethugalpura Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Ethugalpura / Mallawapitiya SC",
+   "Address": "Mallawapitiya Junction, Mallawapitiya, Kurunegala",
+   "lat": 7.474027,
+   "lng": 80.390561,
+   "NameoftheBranchATMATMCode": "Mallawapitiya SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Polpithigama",
+   "Address": "Madagalla Road, Polpithigama",
+   "lat": 7.817954,
+   "lng": 80.405271,
+   "NameoftheBranchATMATMCode": "Polpithigama Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Kurunegala",
+   "Address": "Co-operative Hospital, Colombo Road, Kurunegala",
+   "lat": 7.4769189,
+   "lng": 80.3542698,
+   "NameoftheBranchATMATMCode": "Co -op Hospital Kurunegala"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Ethugalpura",
+   "Address": "Hiripitiya, Nikadalupotha.",
+   "lat": 7.655638,
+   "lng": 80.369963,
+   "NameoftheBranchATMATMCode": "Hiripitiya SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Maliyadeva",
+   "Address": "Railway Station Kurunegala",
+   "lat": 7.4863098,
+   "lng": 80.3678384,
+   "NameoftheBranchATMATMCode": "Railway Station Kurunegala"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Alawwa",
+   "Address": "No: 09, Boyawalana, Keppetiwalana",
+   "lat": 7.335197,
+   "lng": 80.176284,
+   "NameoftheBranchATMATMCode": "Boyawalana SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Wariyapola",
+   "Address": "Puttlam road kurunegala",
+   "lat": 7.547517,
+   "lng": 80.306176,
+   "NameoftheBranchATMATMCode": "Maspotha SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Bingiriya",
+   "Address": "Peoples Bank, Weerapokuna",
+   "lat": 7.762798,
+   "lng": 80.188649,
+   "NameoftheBranchATMATMCode": "Weerapokuna SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Ridigama",
+   "Address": "Brandix Casualwear Dodangaslanda road, Ridigama",
+   "lat": 7.5672704,
+   "lng": 80.5062702,
+   "NameoftheBranchATMATMCode": "Brandex Garment-Ridigama"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Kuliyapitiya",
+   "Address": "Naththandiya Road, Udubaddawa.",
+   "lat": 7.483606,
+   "lng": 79.967396,
+   "NameoftheBranchATMATMCode": "Udubaddawa SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Kurunegala",
+   "NameoftheBranchATMIdName": "Pallepola",
+   "Address": "People's Bank, Akuramboda  Road, Pallepola",
+   "lat": 7.624755,
+   "lng": 80.606392,
+   "NameoftheBranchATMATMCode": "Pallepola Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matale",
+   "NameoftheBranchATMIdName": "Pattota",
+   "Address": "People's Bank, Rattota",
+   "lat": 7.519666,
+   "lng": 80.67779,
+   "NameoftheBranchATMATMCode": "Rattota Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matale",
+   "NameoftheBranchATMIdName": "Ukuwela",
+   "Address": "People's Bank, Matale  Road, Ukuwela.",
+   "lat": 7.422451,
+   "lng": 80.632136,
+   "NameoftheBranchATMATMCode": "Ukuwela Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matale",
+   "NameoftheBranchATMIdName": "Rattota",
+   "Address": "Pepole's Bank, Kaikawala, Matale.",
+   "lat": 7.506825,
+   "lng": 80.658442,
+   "NameoftheBranchATMATMCode": "Kaikawala SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matale",
+   "NameoftheBranchATMIdName": "Matale",
+   "Address": "District Hospital Matale",
+   "lat": 7.27471,
+   "lng": 80.37345,
+   "NameoftheBranchATMATMCode": "Matale Hospital Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matale",
+   "NameoftheBranchATMIdName": "Dambulla",
+   "Address": "Presisent Regiment 53 Division Head Quarters Inamaluwa",
+   "lat": 7.941026,
+   "lng": 80.693603,
+   "NameoftheBranchATMATMCode": "Inamaluwa Army Camp Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matale",
+   "NameoftheBranchATMIdName": "Naula ",
+   "Address": "People's Bank, Dambulla  Road, Naula",
+   "lat": 7.6883044,
+   "lng": 80.6493396,
+   "NameoftheBranchATMATMCode": "Naula Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matale",
+   "NameoftheBranchATMIdName": "Dambulla",
+   "Address": "Crystal Martin Central (Pvt) Ltd Inamaluwa,, Dambulla",
+   "lat": 7.9222933,
+   "lng": 80.682397,
+   "NameoftheBranchATMATMCode": "Cristel Martin - Dambulla"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matale",
+   "NameoftheBranchATMIdName": "Galewela",
+   "Address": "Pepole's Bank, Makulgaswewa, Dewahuwa",
+   "lat": 7.845456,
+   "lng": 80.578712,
+   "NameoftheBranchATMATMCode": "Dewahuwa  S/C"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matale",
+   "NameoftheBranchATMIdName": "Wilgamuwa",
+   "Address": "Peple's Bank, 47/1, Laggala Pallegama",
+   "lat": 7.545811,
+   "lng": 80.836276,
+   "NameoftheBranchATMATMCode": "Laggala Pallegama SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matale",
+   "NameoftheBranchATMIdName": "Naula",
+   "Address": "Peple's Bank, Dambulla Road, Madawala-Ulpotha. ",
+   "lat": 7.610116,
+   "lng": 80.636456,
+   "NameoftheBranchATMATMCode": "Madawala Ulpotha S/C"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matale",
+   "NameoftheBranchATMIdName": "Ukuwela",
+   "Address": "Peple's Bank, 29/4, Kandy Road, Warakamura.",
+   "lat": 7.402019,
+   "lng": 80.622096,
+   "NameoftheBranchATMATMCode": "Warakamura SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matale",
+   "NameoftheBranchATMIdName": "Pallepola",
+   "Address": "People's Bank, Yelakkaraya, Yatawatta",
+   "lat": 7.507412,
+   "lng": 80.590439,
+   "NameoftheBranchATMATMCode": "Yatawatta SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matale",
+   "NameoftheBranchATMIdName": "Matale",
+   "Address": "No. 45, King Street, Matale",
+   "lat": 7.469008,
+   "lng": 80.622356,
+   "NameoftheBranchATMATMCode": "Matale Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matara",
+   "NameoftheBranchATMIdName": "Matara Uyanwatta",
+   "Address": "Wellamadama, Matara",
+   "lat": 5.938646,
+   "lng": 80.573563,
+   "NameoftheBranchATMATMCode": "Ruhunu Campus Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matara",
+   "NameoftheBranchATMIdName": "Matara Uyanwatta",
+   "Address": "Sri Dharmarathna Mawatha, Matara",
+   "lat": 5.947879,
+   "lng": 80.548728,
+   "NameoftheBranchATMATMCode": "Hospital Unit SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matara",
+   "NameoftheBranchATMIdName": "Weligama",
+   "Address": "Hetti Weediya, Weligama",
+   "lat": 5.949594,
+   "lng": 80.455827,
+   "NameoftheBranchATMATMCode": "Weligama Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matara",
+   "NameoftheBranchATMIdName": "Hakmana",
+   "Address": "Hakmana Road, Deiyandara",
+   "lat": 6.15136,
+   "lng": 80.604633,
+   "NameoftheBranchATMATMCode": "Deiyandara SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matara",
+   "NameoftheBranchATMIdName": "Kamburupitiya",
+   "Address": "Matara Road , Kamburupitiya",
+   "lat": 6.080499,
+   "lng": 80.566737,
+   "NameoftheBranchATMATMCode": "Kamburupitiya Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matara",
+   "NameoftheBranchATMIdName": "Matara Dharmapala",
+   "Address": "NO. 215, Anagarika Dharmapala Mawatha, Nupe, Matara",
+   "lat": 5.950686,
+   "lng": 80.549939,
+   "NameoftheBranchATMATMCode": "Matara Dharmapala Mawatha Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matara",
+   "NameoftheBranchATMIdName": "Urubokka",
+   "Address": "Main Street, Urubokka",
+   "lat": 6.301847,
+   "lng": 80.635226,
+   "NameoftheBranchATMATMCode": "Urubokka Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matara",
+   "NameoftheBranchATMIdName": "Gandara",
+   "Address": "Tangalle Road, Gandara",
+   "lat": 5.93856,
+   "lng": 80.613146,
+   "NameoftheBranchATMATMCode": "Gandara Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matara",
+   "NameoftheBranchATMIdName": "Weligama",
+   "Address": "Wijaya Marine, Matara Road, Mirissa Junction, Mirissa",
+   "lat": 5.966863,
+   "lng": 80.458759,
+   "NameoftheBranchATMATMCode": "Mirissa SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matara",
+   "NameoftheBranchATMIdName": "Deniyaya",
+   "Address": "Mederipitiya Road, Pallegama",
+   "lat": 6.28759,
+   "lng": 80.402077,
+   "NameoftheBranchATMATMCode": "Pallegama SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matara",
+   "NameoftheBranchATMIdName": "Kamburupitiya",
+   "Address": "Thihagoda Junction",
+   "lat": 6.013029,
+   "lng": 80.563681,
+   "NameoftheBranchATMATMCode": "Thihagoda "
+ },
+ {
+   "Type": "ATM",
+   "District": "Matara",
+   "NameoftheBranchATMIdName": "Morawaka",
+   "Address": "Deniyaya Road, Pitabeddara",
+   "lat": 6.202053,
+   "lng": 80.474475,
+   "NameoftheBranchATMATMCode": "Pitabeddara SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matara",
+   "NameoftheBranchATMIdName": "Urubokka",
+   "Address": "No. 139 A, Gomila, Mawarala",
+   "lat": 6.199648,
+   "lng": 80.589442,
+   "NameoftheBranchATMATMCode": "Mawarala SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matara",
+   "NameoftheBranchATMIdName": "Gandara",
+   "Address": "No. 14, Swarnapurawara Shopping Complex, Kekanadura, Matara",
+   "lat": 5.963638,
+   "lng": 80.602507,
+   "NameoftheBranchATMATMCode": "Kekanadura SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matara",
+   "NameoftheBranchATMIdName": "Akuressa",
+   "Address": "Weligam Road, Thelijjawila",
+   "lat": 6.023941,
+   "lng": 80.494359,
+   "NameoftheBranchATMATMCode": "Telijjawila SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matara",
+   "NameoftheBranchATMIdName": "Morawaka",
+   "Address": " Isuru, Opatha",
+   "lat": 6.27008,
+   "lng": 80.412124,
+   "NameoftheBranchATMATMCode": "Opatha S/C"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matara",
+   "NameoftheBranchATMIdName": "Matara Uyanwatta",
+   "Address": "Wellamadama, Matara",
+   "lat": 5.938646,
+   "lng": 80.573563,
+   "NameoftheBranchATMATMCode": "Matara University"
+ },
+ {
+   "Type": "ATM",
+   "District": "Matara",
+   "NameoftheBranchATMIdName": "Matara Uyanwatta",
+   "Address": "Hakmana Road, Yatiyana",
+   "lat": 6.024867,
+   "lng": 80.601098,
+   "NameoftheBranchATMATMCode": "Yatiyana SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Monaragala",
+   "NameoftheBranchATMIdName": "Kataragama",
+   "Address": "No 159,Thissa Road,Katharagama.",
+   "lat": 6.412974,
+   "lng": 81.329656,
+   "NameoftheBranchATMATMCode": "Kataragama Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Monaragala",
+   "NameoftheBranchATMIdName": "Monaragala",
+   "Address": "Pothuwil Road,Siyambalanduwa,Monaragala",
+   "lat": 6.90693,
+   "lng": 81.551161,
+   "NameoftheBranchATMATMCode": "Siyambalanduwa SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Monaragala",
+   "NameoftheBranchATMIdName": "Medagama",
+   "Address": "Bibila Road,Medagama",
+   "lat": 7.035102,
+   "lng": 81.273152,
+   "NameoftheBranchATMATMCode": "Medagama Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Monaragala",
+   "NameoftheBranchATMIdName": "Kataragama",
+   "Address": "Sella Kataragama Junction",
+   "lat": 6.435518,
+   "lng": 81.2945044,
+   "NameoftheBranchATMATMCode": "Sella Kataragama"
+ },
+ {
+   "Type": "ATM",
+   "District": "Monaragala",
+   "NameoftheBranchATMIdName": "Badalkumbura",
+   "Address": "Main Street,Badalkumbura",
+   "lat": 6.895467,
+   "lng": 81.238212,
+   "NameoftheBranchATMATMCode": "Badalkumbura Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Monaragala",
+   "NameoftheBranchATMIdName": "Wellawaya",
+   "Address": "Thissa Road, Ethiliwewa,Wellawaya",
+   "lat": 6.6224,
+   "lng": 81.1255,
+   "NameoftheBranchATMATMCode": "Ethiliwewa SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Monaragala",
+   "NameoftheBranchATMIdName": "Monaragala",
+   "Address": "Makulla Town,Dambagalla, Monaragala",
+   "lat": 6.97885,
+   "lng": 81.372681,
+   "NameoftheBranchATMATMCode": "Dambagolla S/C"
+ },
+ {
+   "Type": "ATM",
+   "District": "Monaragala",
+   "NameoftheBranchATMIdName": "Monaragala",
+   "Address": "Pawning Centre Monaragala",
+   "lat": 6.871985,
+   "lng": 81.350094,
+   "NameoftheBranchATMATMCode": "Monaragala SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Monaragala",
+   "NameoftheBranchATMIdName": "Monaragala",
+   "Address": "District General Hospital Monaragala",
+   "lat": 6.891361,
+   "lng": 81.3403896,
+   "NameoftheBranchATMATMCode": "Monaragala Hospital"
+ },
+ {
+   "Type": "ATM",
+   "District": "Nuwara Eliya",
+   "NameoftheBranchATMIdName": "Bogawanthalawa",
+   "Address": "100, Main Street, Bogawantalawa",
+   "lat": 6.795836,
+   "lng": 80.678584,
+   "NameoftheBranchATMATMCode": "Bogawanthalawa Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Nuwara Eliya",
+   "NameoftheBranchATMIdName": "Ginigathhena",
+   "Address": "1/100, Hatton Road, Ginigathhena",
+   "lat": 6.988848,
+   "lng": 80.494468,
+   "NameoftheBranchATMATMCode": "Ginigathhena Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Nuwara Eliya",
+   "NameoftheBranchATMIdName": "Maskeliya",
+   "Address": "Main Sreet, Maskeliya",
+   "lat": 6.834214,
+   "lng": 80.571842,
+   "NameoftheBranchATMATMCode": "Maskeliya Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Nuwara Eliya",
+   "NameoftheBranchATMIdName": "Nildandahinna",
+   "Address": "Amban Ella Road, Walapane",
+   "lat": 7.079202,
+   "lng": 80.893706,
+   "NameoftheBranchATMATMCode": "Nildandahinna Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Nuwara Eliya",
+   "NameoftheBranchATMIdName": "Pundaluoya",
+   "Address": "Pradeshiya Sabha Building, Pundaluoya",
+   "lat": 7.014789,
+   "lng": 80.665398,
+   "NameoftheBranchATMATMCode": "Pundaluoya Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Nuwara Eliya",
+   "NameoftheBranchATMIdName": "Pundaluoya",
+   "Address": "Nuwara Eliya Rd, Tawalantenna",
+   "lat": 7.06829,
+   "lng": 80.685781,
+   "NameoftheBranchATMATMCode": "Thawalantanna SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Nuwara Eliya",
+   "NameoftheBranchATMIdName": "Udapussellawa",
+   "Address": "55, St.Margrett's Bazaar, Udepussellawa",
+   "lat": 7.000174,
+   "lng": 80.904118,
+   "NameoftheBranchATMATMCode": "Udapussellawa Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Nuwara Eliya",
+   "NameoftheBranchATMIdName": "Nuwaraeliya",
+   "Address": "12, Main Street, Nanuoya.",
+   "lat": 6.940608,
+   "lng": 80.744295,
+   "NameoftheBranchATMATMCode": "Nanauoya SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Nuwara Eliya",
+   "NameoftheBranchATMIdName": "Haguranketha",
+   "Address": "Badulla Road, Adikarigama",
+   "lat": 7.2146,
+   "lng": 80.7829,
+   "NameoftheBranchATMATMCode": "Adikarigama SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Nuwara Eliya",
+   "NameoftheBranchATMIdName": "Nildandahinna",
+   "Address": "Ratnayake Building, Walapane",
+   "lat": 7.0951,
+   "lng": 80.862283,
+   "NameoftheBranchATMATMCode": "Walapane SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Nuwara Eliya",
+   "NameoftheBranchATMIdName": "Haguranketha",
+   "Address": "Ragala Road, Padiyapelalla",
+   "lat": 7.0938,
+   "lng": 80.7988,
+   "NameoftheBranchATMATMCode": "Padiyapelella SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Nuwara Eliya",
+   "NameoftheBranchATMIdName": "Hatton",
+   "Address": "District Base Hospital Dickoya, Hatton - Maskeliya - Dalhousie Road, Dick oya",
+   "lat": 6.8553621,
+   "lng": 80.5987628,
+   "NameoftheBranchATMATMCode": "Dickoya Base Hospital"
+ },
+ {
+   "Type": "ATM",
+   "District": "Nuwara Eliya",
+   "NameoftheBranchATMIdName": "Hatton",
+   "Address": "Main street, Kotagala",
+   "lat": 6.924848,
+   "lng": 80.607178,
+   "NameoftheBranchATMATMCode": "Kotagala S/C"
+ },
+ {
+   "Type": "ATM",
+   "District": "Polonnaruwa",
+   "NameoftheBranchATMIdName": "Hingurakgoda",
+   "Address": "Minneriya Army Camp",
+   "lat": 8.061475,
+   "lng": 80.902798,
+   "NameoftheBranchATMATMCode": "Minneriya ATM (Offsite)"
+ },
+ {
+   "Type": "ATM",
+   "District": "Polonnaruwa",
+   "NameoftheBranchATMIdName": "Medirigiriya Branch",
+   "Address": "People's Bank , No 01, Main Street, Medirigiriya",
+   "lat": 8.139931,
+   "lng": 80.964351,
+   "NameoftheBranchATMATMCode": "Medirigiriya Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Polonnaruwa",
+   "NameoftheBranchATMIdName": "Polonnaruwa Town",
+   "Address": "People's Bank - Town Branch , Polonnaruwa",
+   "lat": 7.940003,
+   "lng": 81.001006,
+   "NameoftheBranchATMATMCode": "Polonnaruwa Town Branch  Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Polonnaruwa",
+   "NameoftheBranchATMIdName": "Bakamuna",
+   "Address": "People's Bank, Girithale Rd, Diyabeduma",
+   "lat": 7.934172,
+   "lng": 80.868156,
+   "NameoftheBranchATMATMCode": "Diyabeduma SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Polonnaruwa",
+   "NameoftheBranchATMIdName": "Polonnaruwa ",
+   "Address": "Divisional Secretariat Complex, No.325, New Town, Polonnaruwa",
+   "lat": 7.914721,
+   "lng": 81.0020285,
+   "NameoftheBranchATMATMCode": "Polonnaruwa RHO"
+ },
+ {
+   "Type": "ATM",
+   "District": "Polonnaruwa",
+   "NameoftheBranchATMIdName": "Thambala",
+   "Address": "Somawathi Rajamaha Viharaya",
+   "lat": 8.120909,
+   "lng": 81.1666592,
+   "NameoftheBranchATMATMCode": "Somawathi Rajamaha Viharaya"
+ },
+ {
+   "Type": "ATM",
+   "District": "Polonnaruwa",
+   "NameoftheBranchATMIdName": "Thambala Branch",
+   "Address": "People's Bank , No93/A, Alhilalpura , Thambala",
+   "lat": 8.013157,
+   "lng": 81.077407,
+   "NameoftheBranchATMATMCode": "Thambala Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Polonnaruwa",
+   "NameoftheBranchATMIdName": "Medirigiriya",
+   "Address": "People's Bank ,No 05, Diyasenpura, Medirigiriya",
+   "lat": 8.131993,
+   "lng": 81.019984,
+   "NameoftheBranchATMATMCode": "Diyasenpura SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Polonnaruwa",
+   "NameoftheBranchATMIdName": "Dehiattakandiya",
+   "Address": "People's Bank, Siripura S.C, Siripura",
+   "lat": 7.729638,
+   "lng": 81.017118,
+   "NameoftheBranchATMATMCode": "Siripura S/C"
+ },
+ {
+   "Type": "ATM",
+   "District": "Polonnaruwa",
+   "NameoftheBranchATMIdName": "Polonnaruwa Town",
+   "Address": "People's Bank, 22nd Junction, Jayanthipura",
+   "lat": 7.984517,
+   "lng": 80.964473,
+   "NameoftheBranchATMATMCode": "Jayanthipura SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Puttalam",
+   "NameoftheBranchATMIdName": "Chilaw Branch",
+   "Address": "Puttalam Road, Arachchikattuwa",
+   "lat": 7.665137,
+   "lng": 79.836583,
+   "NameoftheBranchATMATMCode": "Arachchikattuwa SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Puttalam",
+   "NameoftheBranchATMIdName": "Wennappuwa Branch",
+   "Address": "St.Anthonies Building, Chilaw Road,Bolawatta",
+   "lat": 7.29078,
+   "lng": 79.852451,
+   "NameoftheBranchATMATMCode": "Bolawatta SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Puttalam",
+   "NameoftheBranchATMIdName": "Kalpitiya Branch",
+   "Address": "Fisheries Buliding, Kalpitiya",
+   "lat": 8.23602,
+   "lng": 79.765179,
+   "NameoftheBranchATMATMCode": "Kalpitiya Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Puttalam",
+   "NameoftheBranchATMIdName": "Madampe Branch",
+   "Address": "Chilaw Road, New Town, Madampe",
+   "lat": 7.497107,
+   "lng": 79.840418,
+   "NameoftheBranchATMATMCode": "Madampe Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Puttalam",
+   "NameoftheBranchATMIdName": "Kalpitiya",
+   "Address": "Kalpitiya Road, Norochchole",
+   "lat": 8.04509,
+   "lng": 79.737846,
+   "NameoftheBranchATMATMCode": "Norochchole"
+ },
+ {
+   "Type": "ATM",
+   "District": "Puttalam",
+   "NameoftheBranchATMIdName": "Anamaduwa Branch",
+   "Address": "Kurunegala Road, Madampe",
+   "lat": 7.876706,
+   "lng": 80.011648,
+   "NameoftheBranchATMATMCode": "Anamaduwa Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Puttalam",
+   "NameoftheBranchATMIdName": "Dankotuwa Branch",
+   "Address": "No 42, Pannala Road , Dankotuwa",
+   "lat": 7.297371,
+   "lng": 79.883136,
+   "NameoftheBranchATMATMCode": "Dankotuwa Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Puttalam",
+   "NameoftheBranchATMIdName": "Mahawewa Branch",
+   "Address": "Chilaw Road,Mahawewa",
+   "lat": 7.457182,
+   "lng": 79.826703,
+   "NameoftheBranchATMATMCode": "Mahawewa Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Puttalam",
+   "NameoftheBranchATMIdName": "Anamaduwa",
+   "Address": "Chilaw Road, Andigama",
+   "lat": 7.775752,
+   "lng": 79.949671,
+   "NameoftheBranchATMATMCode": "Andigama SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Puttalam",
+   "NameoftheBranchATMIdName": "Chilaw",
+   "Address": "Division No 05,Udappuwa",
+   "lat": 7.744707,
+   "lng": 79.792226,
+   "NameoftheBranchATMATMCode": "Udappuwa SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Puttalam",
+   "NameoftheBranchATMIdName": "Nattandiya",
+   "Address": "Negombo Road, Kottaramulla",
+   "lat": 7.377419,
+   "lng": 79.874979,
+   "NameoftheBranchATMATMCode": "Kottaramulla  SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ratnapura",
+   "NameoftheBranchATMIdName": "Rakwana",
+   "Address": "Main Street, Rakwana",
+   "lat": 6.28309,
+   "lng": 80.36365,
+   "NameoftheBranchATMATMCode": "Rakwana Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ratnapura",
+   "NameoftheBranchATMIdName": "Kalawana",
+   "Address": "No-15,Ratnapura Road,Kalawana",
+   "lat": 6.531396,
+   "lng": 80.396679,
+   "NameoftheBranchATMATMCode": "Kalawana Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ratnapura",
+   "NameoftheBranchATMIdName": "Udawalawa",
+   "Address": "No-167/5,Thimbolketiya,Colombogeara",
+   "lat": 6.411679,
+   "lng": 80.795575,
+   "NameoftheBranchATMATMCode": "Udawalawa Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ratnapura",
+   "NameoftheBranchATMIdName": "Ratnapura Town",
+   "Address": "No-284,284 A,Main Street,Ratnapura",
+   "lat": 6.672298,
+   "lng": 80.46499,
+   "NameoftheBranchATMATMCode": "Ratnapura Town Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ratnapura",
+   "NameoftheBranchATMIdName": "Pallebedda",
+   "Address": "Main Street,Pallebedda",
+   "lat": 6.481705,
+   "lng": 80.70885,
+   "NameoftheBranchATMATMCode": "Pallebedda Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ratnapura",
+   "NameoftheBranchATMIdName": "Embilipitiya",
+   "Address": "Sooriyakanda Road,Hospital Junction,Kolonna",
+   "lat": 6.4013273,
+   "lng": 80.6915428,
+   "NameoftheBranchATMATMCode": "Kolonna SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ratnapura",
+   "NameoftheBranchATMIdName": "Embilipitiya",
+   "Address": "Danduma Junction,Sevanagala",
+   "lat": 6.358811,
+   "lng": 80.919236,
+   "NameoftheBranchATMATMCode": "Sevanagala SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ratnapura",
+   "NameoftheBranchATMIdName": "Ratnapura",
+   "Address": "No-54,New Town,Ratnapura",
+   "lat": 6.707355,
+   "lng": 80.383352,
+   "NameoftheBranchATMATMCode": "Ratnapura New Town SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ratnapura",
+   "NameoftheBranchATMIdName": "Kiriella",
+   "Address": "No-36,Near the bridge,Ayagama",
+   "lat": 6.637443,
+   "lng": 80.312261,
+   "NameoftheBranchATMATMCode": "Ayagama SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ratnapura",
+   "NameoftheBranchATMIdName": "Kuruwita",
+   "Address": "Gemunu Watch Regiment Kuruwita",
+   "lat": 6.740144,
+   "lng": 80.365775,
+   "NameoftheBranchATMATMCode": "Kuruwita Army Camp Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ratnapura",
+   "NameoftheBranchATMIdName": "Balangoda",
+   "Address": "Ambavila Road,Weligepola",
+   "lat": 6.573345,
+   "lng": 80.704586,
+   "NameoftheBranchATMATMCode": "Weligepola SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ratnapura",
+   "NameoftheBranchATMIdName": "Eheliyagoda",
+   "Address": "Main Street,Eheliyagoda",
+   "lat": 6.848488,
+   "lng": 80.26627,
+   "NameoftheBranchATMATMCode": "Eheliyagoda SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ratnapura",
+   "NameoftheBranchATMIdName": "Pelmadulla",
+   "Address": "No-04,Opanayaka",
+   "lat": 6.6238,
+   "lng": 80.6674,
+   "NameoftheBranchATMATMCode": "Opanayake SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Ratnapura",
+   "NameoftheBranchATMIdName": "Balangoda",
+   "Address": "Badulla Rd,Pambahinna,Balangoda",
+   "lat": 6.720296,
+   "lng": 80.786174,
+   "NameoftheBranchATMATMCode": "Pambahinna SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Trincomalee",
+   "NameoftheBranchATMIdName": "Trincomalee",
+   "Address": "No-187, Customs Road, Trincomalee",
+   "lat": 8.566691,
+   "lng": 81.23327,
+   "NameoftheBranchATMATMCode": "Trincomalee Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Trincomalee",
+   "NameoftheBranchATMIdName": "Kinniya",
+   "Address": "Jawa road,Kinniya",
+   "lat": 8.503748,
+   "lng": 81.179686,
+   "NameoftheBranchATMATMCode": "Kinniya Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Trincomalee",
+   "NameoftheBranchATMIdName": "Trincomalee Town",
+   "Address": "Nilaweera building,     No-429, Dockyard Road, Trincomalee",
+   "lat": 8.575448,
+   "lng": 81.234668,
+   "NameoftheBranchATMATMCode": "Trincomalee Town Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Trincomalee",
+   "NameoftheBranchATMIdName": "Pulmudai",
+   "Address": "Illahiya Nagar, Pulmudai-01",
+   "lat": 8.9381,
+   "lng": 80.989,
+   "NameoftheBranchATMATMCode": "Pulmudai Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Trincomalee",
+   "NameoftheBranchATMIdName": "Mollipothana SC",
+   "Address": "No.360,Kandy road, Mullipothana",
+   "lat": 8.448194,
+   "lng": 81.057575,
+   "NameoftheBranchATMATMCode": "Mollipothana SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Trincomalee",
+   "NameoftheBranchATMIdName": "Serunuwara",
+   "Address": "Serunuwara Rajamaha Viharaya",
+   "lat": 8.3708164,
+   "lng": 81.3171232,
+   "NameoftheBranchATMATMCode": "Serunuwara Rajamaha Viharaya"
+ },
+ {
+   "Type": "ATM",
+   "District": "Trincomalee",
+   "NameoftheBranchATMIdName": "Serunuwara",
+   "Address": "Divisional Secretariat Verugal",
+   "lat": 8.28977,
+   "lng": 81.3580084,
+   "NameoftheBranchATMATMCode": "DS Office Verugal Eachalampattu"
+ },
+ {
+   "Type": "ATM",
+   "District": "Trincomalee",
+   "NameoftheBranchATMIdName": "Second City SC",
+   "Address": "No.128,Kandy Road,Trincomalee",
+   "lat": 8.587372,
+   "lng": 81.215052,
+   "NameoftheBranchATMATMCode": "Tincomalee 2nd City SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Trincomalee",
+   "NameoftheBranchATMIdName": "Trincomalee",
+   "Address": "Trincomalee Naval Dockyard, Trincomalee",
+   "lat": 8.5519946,
+   "lng": 81.2258006,
+   "NameoftheBranchATMATMCode": "Trinco Navy Base"
+ },
+ {
+   "Type": "ATM",
+   "District": "Wanni",
+   "NameoftheBranchATMIdName": "Mullaitivu ",
+   "Address": "Main Street, Puthukudiruppu",
+   "lat": 9.314227,
+   "lng": 80.695263,
+   "NameoftheBranchATMATMCode": "Puthukudiyiruppu SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Wanni",
+   "NameoftheBranchATMIdName": "Vavuniya",
+   "Address": "DS Office Vavuniya",
+   "lat": 8.70588,
+   "lng": 80.499237,
+   "NameoftheBranchATMATMCode": "Vavuniya   Kachcheri offsite"
+ },
+ {
+   "Type": "ATM",
+   "District": "Wanni",
+   "NameoftheBranchATMIdName": "Vavuniya",
+   "Address": "Hidramani Vavuniya ",
+   "lat": 8.738116,
+   "lng": 80.492273,
+   "NameoftheBranchATMATMCode": "Vavuniya  Hidramani offsite "
+ },
+ {
+   "Type": "ATM",
+   "District": "Wanni",
+   "NameoftheBranchATMIdName": "Mannar",
+   "Address": "Mannar District Secretariat Main Street Kachcheri Mannar",
+   "lat": 8.977933,
+   "lng": 79.913328,
+   "NameoftheBranchATMATMCode": "Mannar Kachcheri ATM"
+ },
+ {
+   "Type": "ATM",
+   "District": "Wanni",
+   "NameoftheBranchATMIdName": "Paranthan ",
+   "Address": "A-9 Road, Paranthan",
+   "lat": 9.435511,
+   "lng": 80.407455,
+   "NameoftheBranchATMATMCode": "Paranthan Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Wanni",
+   "NameoftheBranchATMIdName": "Mankulam ",
+   "Address": "A-9 Road, Mankulam",
+   "lat": 9.130334,
+   "lng": 80.446094,
+   "NameoftheBranchATMATMCode": "Mankulam Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Wanni",
+   "NameoftheBranchATMIdName": "Mankulam ",
+   "Address": "Thunukai Road, Mallavi.",
+   "lat": 9.134027,
+   "lng": 80.312172,
+   "NameoftheBranchATMATMCode": "Mallavi SC Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Wanni",
+   "NameoftheBranchATMIdName": "Murunkan ",
+   "Address": "Mannar Rd, Murunkan",
+   "lat": 8.834632,
+   "lng": 80.048608,
+   "NameoftheBranchATMATMCode": "Murunkan  Branch Premises"
+ },
+ {
+   "Type": "ATM",
+   "District": "Wanni",
+   "NameoftheBranchATMIdName": "Mullaitivu",
+   "Address": "Main Street, Oddusuddan",
+   "lat": 9.153782,
+   "lng": 80.648942,
+   "NameoftheBranchATMATMCode": "Oddusuddan SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Wanni",
+   "NameoftheBranchATMIdName": "Vavuniya",
+   "Address": "Oddusuddan Road, Nedunkerny",
+   "lat": 9.05725,
+   "lng": 80.657353,
+   "NameoftheBranchATMATMCode": "Nedunkerny SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Wanni",
+   "NameoftheBranchATMIdName": "Paranthan",
+   "Address": "A-9 Road, Pallai.",
+   "lat": 9.609075,
+   "lng": 80.330608,
+   "NameoftheBranchATMATMCode": "Palai SC"
+ },
+ {
+   "Type": "ATM",
+   "District": "Wanni",
+   "NameoftheBranchATMIdName": "Vavuniya",
+   "Address": "Lanka Sathosa, Vavuniya",
+   "lat": 8.7618962,
+   "lng": 80.4573279,
+   "NameoftheBranchATMATMCode": "Vavuniya Sathosa ATM"
+ },
+ {
+   "Type": "ATM",
+   "District": "Wanni",
+   "NameoftheBranchATMIdName": "Cheddikulam",
+   "Address": "Mannar Rd, Chettikulam",
+   "lat": 8.651055,
+   "lng": 80.314979,
+   "NameoftheBranchATMATMCode": "Cheddikulam"
+ }
+]
