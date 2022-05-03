@@ -4,15 +4,22 @@
 
 - Banks: https://www.samurdhi.gov.lk/web/index.php/en/contact-us/test.html
 
+## Supermarkets
+
+- Arpico: https://www.google.com/maps/d/viewer?mid=1dLga5zeik4g5Rdjx5UTMNaLj0Xc
+- Cargills: https://cargillsonline.com/
+- Keells: https://zebraliveback.keellssuper.com/1.0/StoreLocator/LoadLocationDetails
+- Sathosa: https://lankasathosa.lk/
+
 ## Mobile Money
 
-eZ Cash
+### eZ Cash
 - Communications: https://www.google.com/maps/d/viewer?mid=17iH9HEo-jcNo7e2JsLLpSujYrEY&ehbc=2E312F
 - Dialog Service Points: https://dlg.dialog.lk/support/find-a-store
 - Commercial Bank ATMs: https://www.combank.lk/branches
 - Sampath Bank ATMs: https://www.sampath.lk/en/?option=com_storelocator&view=map&format=raw&searchall=1&tagid=1
 
-mCash
+### mCash
 - Communications: https://www.mobitel.lk/sites/default/files/files/mCash_Retailers2003%281%29.pdf
 - Mobitel Touch Points: https://www.mobitel.lk/store-find
 - Commercial Bank ATMs: https://www.combank.lk/branches
